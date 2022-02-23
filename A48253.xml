@@ -1,0 +1,991 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The military duties of the officers of cavalry containing the way of exercising the horse according to the practice of this present time : the motions of horse, the function of the several officers, from the chief captain to the brigadeer / written originally in French by the Sieur de la Fontaine, ingineer in ordinary to the most Christain king and translated for the use of those who are desirous to be informed of the art of war as it is practised in France, by A.L.</title>
+            <author>La Fontaine, sieur de.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1678</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 151 KB of XML-encoded text transcribed from 83 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48253</idno>
+            <idno type="STC">Wing L178</idno>
+            <idno type="STC">ESTC R32445</idno>
+            <idno type="EEBO-CITATION">12696608</idno>
+            <idno type="OCLC">ocm 12696608</idno>
+            <idno type="VID">65874</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48253)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 65874)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1529:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The military duties of the officers of cavalry containing the way of exercising the horse according to the practice of this present time : the motions of horse, the function of the several officers, from the chief captain to the brigadeer / written originally in French by the Sieur de la Fontaine, ingineer in ordinary to the most Christain king and translated for the use of those who are desirous to be informed of the art of war as it is practised in France, by A.L.</title>
+                  <author>La Fontaine, sieur de.</author>
+                  <author>Lovell, Archibald.</author>
+               </titleStmt>
+               <extent>[11], 147 p., 2 folded plates : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Harford ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1678.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Translated by Archibold Lovell--NUC pre-1956 imprints.</note>
+                  <note>Facing t.p.: Licensed, March 7, 1677/78. R. L'Estrange.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Military art and science --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="license">
+            <pb facs="tcp:65874:1" rendition="simple:additions"/>
+            <pb facs="tcp:65874:2"/>
+            <p>LICENSED, <hi>March</hi> 7. 1677/8.</p>
+            <p>
+               <hi>R. L'Eſtrange.</hi>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:65874:2"/>
+            <p>THE MILITARY DUTIES OF THE <hi>Officers</hi> of <hi>Cavalry,</hi> Containing the way of exerciſing the HORSE, According to the practice of this preſent time. The Motions of Horſe, the Functions of the ſeveral Officers, from the chief Captain, to the Brigadeer.</p>
+            <p>Written Originally in French, by the <hi>Sieur De la Fon<g ref="char:EOLhyphen"/>tain,</hi> Ingineer in Ordinary to the moſt Chriſtian King.</p>
+            <p>And Tranſlated for the uſe of thoſe who are deſirous to be informed of the Art of War, as it is practiſed in <hi>France.</hi>
+            </p>
+            <p>By <hi>A. L.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Robert Harford,</hi> at the Sign of the <hi>Angel</hi> in <hi>Cornhil</hi> near the <hi>Royal Exchange,</hi> 1678.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:65874:3"/>
+            <pb facs="tcp:65874:3"/>
+            <head>To the Right Honourable <hi>James</hi> Earl of <hi>Northampton,</hi> Baron <hi>Compton</hi> of <hi>Compton,</hi> Conſtable of the Tower of <hi>London,</hi> and one of his Majeſties moſt Ho<g ref="char:EOLhyphen"/>nourable Privy-Council.</head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>WHen I was told that this Book, as being uſeful to the publick, deſerved to come abroad under ſuch Auſpices as might not only render it more accept<g ref="char:EOLhyphen"/>able, but likewiſe of greater credit and reputation; I found my ſelf directed by the voice of fame, the only means by which I have the honour to know your Lordſhip, to beg your Honours countenance and approbation to this Tranſlation.</p>
+            <p>No man can be ſo young, my Lord, or ſo great a ſtranger to late Tranſacti<g ref="char:EOLhyphen"/>ons, as not to know, that the Loyal
+<pb facs="tcp:65874:4"/>Family of <hi>Northampton,</hi> has had as great skill in the Conduct, as faith<g ref="char:EOLhyphen"/>fulneſs and authority in the direction of the affairs of War; and that your Lordſhip in particular, though you could claim no advantage by the right of Inheritance and ſucceſſion, yet by the experience of your own induſtrious labours might juſtly challenge a Pre<g ref="char:EOLhyphen"/>rogative to inſtruct, and out-do the original in the ſubject that is hand<g ref="char:EOLhyphen"/>led in this Treatiſe, and by as good (if not much better) rules of this kind, make it <hi>Nefas ab hoſte doceri,</hi> did the aſſiduities of your great em<g ref="char:EOLhyphen"/>ployments give your Lordſhip the lei<g ref="char:EOLhyphen"/>ſure: yet ſeeing the deſign of this Book is to inform the curious of the French Nation, of the method of War that is at preſent obſerved amongſt them, eſpecially in relation to the Horſe; and that it cannot be unpro<g ref="char:EOLhyphen"/>fitable for the Engliſh to know more than perhaps as yet they know, of the difference that is to be found between both Nations; I am bold to believe,
+<pb facs="tcp:65874:4"/>your Honour will favour theſe few Sheets with a peruſal, that by the Cha<g ref="char:EOLhyphen"/>racter they may receive from your Lord<g ref="char:EOLhyphen"/>ſhips Teſte, as by an infallible Touch<g ref="char:EOLhyphen"/>ſtone, they may carry that ſignature which ought to decide their publick fate, and render them either fortunate or unhappy with the Reader.</p>
+            <p>I have no leſs confidence, my Lord, that the Book cannot be thought guilty of the preſumption of the Tranſlator, ſeeing it preſents your Lordſhip with a ſubject ſuted to your dignity, and grateful to your genius; and that he can plead no other excuſe for his bold<g ref="char:EOLhyphen"/>neſs, but the fame of your goodneſs and heroical Virtues: Nevertheleſs, as all who have had the honour to ap<g ref="char:EOLhyphen"/>pear before your Lordſhip, depart with no leſs ſatisfaction, than thoſe who had the happineſs to ſtand before that great Emperour who was reputed the delight of mankind, and who is Cele<g ref="char:EOLhyphen"/>brated by that Princely Elogy <hi>(nemo ex conſpectu ejus triſtis diſceſſit;)</hi> ſo he flatters himſelf with hopes that
+<pb facs="tcp:65874:5"/>though he dares not preſume to any worth that may make him known to your Lordſhip, yet your honour will pardon his ambition in making him<g ref="char:EOLhyphen"/>ſelf known to the World by the title of</p>
+            <closer>
+               <signed>Right Honourable, Your Lordſhips Moſt humble, and obedient Servant, A. LOVELL.</signed>
+            </closer>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:65874:5"/>
+            <head>THE CONTENTS.</head>
+            <list>
+               <head>CHAP. I.</head>
+               <item>OF the diviſion of the Troops of Horſe. <hi>page 1.</hi>
+               </item>
+               <item>Of the Officers of the Gend'arms. <hi>p. 2.</hi>
+               </item>
+               <item>Of the Officers of the light Horſe of Or<g ref="char:EOLhyphen"/>dinance. <hi>p. 3.</hi>
+               </item>
+               <item>Of particular Officers. <hi>Ib.</hi>
+               </item>
+               <item>How many ſorts of Horſemen are in the Cavalry. <hi>p. 4.</hi>
+               </item>
+               <item>Of the exerciſe of Horſe. <hi>Ib.</hi>
+               </item>
+               <item>How a Squadron is to be formed. <hi>Ib.</hi>
+               </item>
+               <item>How to cloſe the Files. <hi>p. 6.</hi>
+               </item>
+               <item>To cloſe the ranks. <hi>Ib.</hi>
+               </item>
+               <item>To double the ranks and reduce them. <hi>p. 7.</hi>
+               </item>
+               <item>Of Counter-marches. <hi>p. 9.</hi>
+               </item>
+               <item>How converſion is to be performed. <hi>Ib.</hi>
+               </item>
+               <item>Of wheeling by Caracol. <hi>Ib.</hi>
+               </item>
+               <item>Of the Volte-face, or facing about. <hi>p. 10.</hi>
+               </item>
+               <pb facs="tcp:65874:6"/>
+               <item>How Horſe are to fire. <hi>p. 13.</hi>
+               </item>
+               <item>How to fight in a retreat. <hi>p. 14.</hi>
+               </item>
+            </list>
+            <list>
+               <head>CHAP. II.</head>
+               <item>How Horſe are to fight againſt Horſe. <hi>p. 16.</hi>
+               </item>
+               <item>How Horſe are to fight againſt Foot. <hi>p. 17.</hi>
+               </item>
+               <item>How Foot are to fight againſt Foot. <hi>p. 19.</hi>
+               </item>
+               <item>How Squadrons are to be detached and formed at the ſame time. <hi>p. 20.</hi>
+               </item>
+               <item>How Squadrons are to be formed. <hi>Ib.</hi>
+               </item>
+               <item>A regulation made by the late King <hi>Lewis XIII.</hi> concerning the diſputes that aroſe among the Officers of the Army in the year <hi>1633. p. 22.</hi>
+               </item>
+               <item>How Foot are to fight againſt Horſe. <hi>p. 27.</hi>
+               </item>
+            </list>
+            <list>
+               <head>CHAP. III.</head>
+               <item>Of the duties of the Officers of Horſe; and in the firſt place of the Cap<g ref="char:EOLhyphen"/>tain. <hi>p. 30.</hi>
+               </item>
+               <pb facs="tcp:65874:6"/>
+               <item>Of the principal duties of a Lieute<g ref="char:EOLhyphen"/>nant. <hi>p. 31.</hi>
+               </item>
+               <item>Of a march. <hi>p. 32.</hi>
+               </item>
+               <item>Of the guard of a Camp. <hi>p. 34.</hi>
+               </item>
+               <item>Of the duties of the Cornet. <hi>Ib.</hi>
+               </item>
+               <item>Of the Quarter-Maſter. <hi>p. 36.</hi>
+               </item>
+               <item>Of the duty of Brigadeers. <hi>p. 43.</hi>
+               </item>
+            </list>
+            <list>
+               <head>CHAP. IV.</head>
+               <item>Of the guard of a Camp, or Quarter. <hi>p. 44.</hi>
+               </item>
+               <item>Cautions that are to be taken in force<g ref="char:EOLhyphen"/>ing of a Quarter. <hi>p. 55.</hi>
+               </item>
+               <item>Of the duties of the Horſe in a fron<g ref="char:EOLhyphen"/>tier place. <hi>p. 64.</hi>
+               </item>
+               <item>Of the duty of a Captain, being in Ga<g ref="char:EOLhyphen"/>riſon in a Frontier Town, during the Campagn. <hi>p. 67.</hi>
+               </item>
+            </list>
+            <list>
+               <head>CHAP. V.</head>
+               <item>Of the Charge of a Serjeant Major. <hi>p. 79.</hi>
+               </item>
+            </list>
+            <pb facs="tcp:65874:7"/>
+            <list>
+               <head>CHAP. VI.</head>
+               <item>Of the March of an Army. <hi>p. 99.</hi>
+               </item>
+               <item>Of a Council of War. <hi>p. 107.</hi>
+               </item>
+               <item>Of cautions to be taken before an Ar<g ref="char:EOLhyphen"/>my be drawn into the Fields. <hi>p. 112.</hi>
+               </item>
+               <item>Of the march of an Army in a cloſe and covered Country. <hi>p. 119.</hi>
+               </item>
+               <item>How an Army made up of Horſe and Foot, is to be encamped. <hi>p. 123.</hi>
+               </item>
+               <item>Of the continuance of a Siege. <hi>p. 128.</hi>
+               </item>
+               <item>Of the ravage that is made about pla<g ref="char:EOLhyphen"/>ces which are intended to be Be<g ref="char:EOLhyphen"/>ſieged. <hi>p. 129.</hi>
+               </item>
+               <item>Of the encamping of Horſe. <hi>p. 135.</hi>
+               </item>
+               <item>Of the way of making the lines of Cir<g ref="char:EOLhyphen"/>cumvallation and Contravallation. <hi>p. 137.</hi>
+               </item>
+               <item>How Attacks and Trenches are to be determined and ordered. <hi>p. 139.</hi>
+               </item>
+               <item>Of the carrying on of Trenches. <hi>p. 141.</hi>
+               </item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:65874:7"/>
+            <head>THE Military Duties OF The Officers of HORSE.</head>
+            <div n="1" type="chapter">
+               <head>CHAP. I. <hi>The Diviſion of the Troops of HORSE.</hi>
+               </head>
+               <p>THere are two ſorts of Caval<g ref="char:EOLhyphen"/>rie, <hi>(viz.) la Cavalerie d'Or<g ref="char:EOLhyphen"/>donance,</hi> the Cavalrie of Or<g ref="char:EOLhyphen"/>dinance, and the light-Horſe; there are beſides, the Troops of the Gen'd'armes, and the light-Horſe of Ordinance, which two make a Body apart, and are independant of the Co<g ref="char:EOLhyphen"/>lonel
+<pb n="2" facs="tcp:65874:8"/>of the Cavalrie, and of all o<g ref="char:EOLhyphen"/>ther Commanders, except the Gene<g ref="char:EOLhyphen"/>rals: They march in the body of the Army, and Encamp alwayes in the Kings Quarters, whom they have for Captain and are exempted from the Guards of Fatigue. The Caval<g ref="char:EOLhyphen"/>rie are again divided into two kinds, <hi>(viz.)</hi> into the French light-Horſe, and the light-horſe, who are, or paſs for ſtrangers. There are five kinds of Officers in the French Cavalrie, <hi>(viz.)</hi> the Colonel of the Cavalrie, the Maſter de Camp of the Cavalrie, the Commiſſary General, in their ab<g ref="char:EOLhyphen"/>ſence the Commander of the Horſe, and the Marſhal of Horſe.</p>
+               <p>The Officers of the Light-Horſe, who are, or paſs for ſtrangers, are Colonels, Lieutenant-Colonels, the firſt Captains, who are commonly Majors, Lieutenants, Cornets, and Quarter-maſters.</p>
+               <div type="part">
+                  <head>The Officers of the Gend'armes</head>
+                  <p>Are Lieutenants of the Gend'armes,
+<pb n="3" facs="tcp:65874:8"/>and Sub-lieutenants in the Kings Gen<g ref="char:EOLhyphen"/>d'armes, Enſigns, Guidons, Quarter<g ref="char:EOLhyphen"/>maſters, firſt and ſecond Brigadeer. They never fight but with the General, and are not ſent out on parties; I mean they are not employed to beat the rode.</p>
+               </div>
+               <div type="part">
+                  <head>The Officers of the Light-horſe of Ordinance</head>
+                  <p>Are Lieutenants, Cornets, Quarter<g ref="char:EOLhyphen"/>maſters, firſt and ſecond Brigadeer.</p>
+               </div>
+               <div type="part">
+                  <head>The particular Officers</head>
+                  <p>Are the Maſter de Camp, the firſt Captain commanding the Regiment, the Captains, the Maſter de Camp's Lieutenant, Major, the Lieutenant, Cornets, the Aid-major, Quarter-Ma<g ref="char:EOLhyphen"/>ſters, firſt and ſecond <hi>Cavalier</hi> or Trooper.</p>
+                  <p>We have beſides in our Cavalrie the Kings Musketeers, who attend his Majeſty when they are commanded.</p>
+                  <pb n="4" facs="tcp:65874:9"/>
+                  <p>In the Cavalrie then we may ob<g ref="char:EOLhyphen"/>ſerve ſix ſorts of Horſemen.</p>
+                  <list>
+                     <item>1. To wit, <hi>the Kings Gend'armes.</hi>
+                     </item>
+                     <item>2. <hi>The Guards du Corps.</hi>
+                     </item>
+                     <item>3. <hi>The Light-Horſe of the Kings Guard.</hi>
+                     </item>
+                     <item>4. <hi>The Kings Musketeers.</hi>
+                     </item>
+                     <item>5. <hi>The Cuiraſſeers.</hi>
+                     </item>
+                     <item>6. <hi>The Dragoons.</hi>
+                     </item>
+                  </list>
+                  <p>When two, three, or more Troopers (as neceſſities require) are ſent out to ſcout on the avenues, or to any place to diſcover the Enemy, they are called the <hi>Vedette,</hi> as in Foot the Sen<g ref="char:EOLhyphen"/>tinel.</p>
+               </div>
+               <div type="part">
+                  <head>Of the Exerciſe of Horſe.</head>
+                  <p>It is certain the Horſe may per<g ref="char:EOLhyphen"/>form the ſame motions as the Foot do, whether it be by Caracols, or by facing about, and other words of Command, which ſhall be ſhewed hereafter.</p>
+               </div>
+               <div type="part">
+                  <head>How a Squadron is to be formed.</head>
+                  <p>Double the Cavalrie on the left
+<pb n="5" facs="tcp:65874:9"/>Wing by three Ranks ſucceſſively, which is the uſual depth of Squa<g ref="char:EOLhyphen"/>drons; and when they draw off to march, they are to file off by files, beginning at the right Wing; or o<g ref="char:EOLhyphen"/>therwayes the Squadron being form<g ref="char:EOLhyphen"/>ed, they are to begin to march by one of the wings without breaking the Squadron, and by Caracol the Squa<g ref="char:EOLhyphen"/>dron will be formed.</p>
+                  <p>The Horſe fight in a large Front, three, and ſometimes four in depth, according as the Army is ſtrong in Cavalrie, and ſometime five or ſix deep, <hi>&amp;c.</hi> and that is it which we call a Squadron.</p>
+                  <p>The Horſe march commonly Troop by Troop, according to their Regi<g ref="char:EOLhyphen"/>ment, and every Troop marches in two files; if they march in body of a ſquadron they make a large Front, and have their depth as is beforeſaid.</p>
+                  <p>Two Troops are ſometimes ſqua<g ref="char:EOLhyphen"/>droned together, the one marching on the rear of the other, and ſome<g ref="char:EOLhyphen"/>times both a breaſt; they are each of them to march in one file, and the
+<pb n="6" facs="tcp:65874:10"/>firſt has the right, and the other the left hand; but before the Command be given, they muſt dreſs their files and ranks, (that is, ſtraighten their files and even their ranks) as hath been ſhewed in the Exerciſe of the Foot.</p>
+                  <div type="section">
+                     <head>To cloſe the Files.</head>
+                     <p>
+                        <hi>The right wing file ſtand.</hi>
+                     </p>
+                     <p>
+                        <hi>Cloſe your files to the right.</hi>
+                     </p>
+                     <p>
+                        <hi>To the left as ye were.</hi>
+                     </p>
+                     <p>
+                        <hi>The left wing file ſtand.</hi>
+                     </p>
+                     <p>
+                        <hi>To the left by files cloſe the ſquadron.</hi>
+                     </p>
+                     <p>
+                        <hi>To the right as ye were.</hi>
+                     </p>
+                     <p>
+                        <hi>The right and left-wing file ſtand.</hi>
+                     </p>
+                     <p>
+                        <hi>By half ranks cloſe your files to the right and <gap reason="illegible" resp="#UOM" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>ft.</hi>
+                     </p>
+                     <p>The Command may be given thus,</p>
+                     <p>
+                        <hi>Cleave the Squadron by cloſing your files.</hi>
+                     </p>
+                     <p>All theſe Motions are performed in Marching.</p>
+                  </div>
+                  <div type="section">
+                     <head>To cloſe the Ranks.</head>
+                     <p>
+                        <hi>File leaders ſtand.</hi>
+                     </p>
+                     <pb n="7" facs="tcp:65874:10"/>
+                     <p>
+                        <hi>By ranks cloſe the ſquadron to the front.</hi>
+                     </p>
+                     <p>
+                        <hi>On the front as ye were.</hi>
+                     </p>
+                     <p>Or thus,</p>
+                     <p>
+                        <hi>Open your ranks on the front to your firſt diſtances.</hi>
+                     </p>
+                  </div>
+                  <div type="section">
+                     <head>To double the Ranks.</head>
+                     <p>
+                        <hi>By half files to the right double your ranks to the front.</hi>
+                     </p>
+                     <p>
+                        <hi>File-leaders advance your ranks.</hi>
+                     </p>
+                     <p>
+                        <hi>Half files take your ground.</hi>
+                     </p>
+                     <p>The ſame Command is made to the left.</p>
+                     <p>
+                        <hi>The firſt half-file ſtand.</hi>
+                     </p>
+                     <p>
+                        <hi>By half-file leader on the left wing double your ranks to the front.</hi>
+                     </p>
+                  </div>
+                  <div type="section">
+                     <head>To reduce them again, the Com<g ref="char:EOLhyphen"/>mand muſt be given.</head>
+                     <p>
+                        <hi>Right-wing half-rank advance your ranks.</hi>
+                     </p>
+                     <p>
+                        <hi>Half file-leaders take your ground.</hi>
+                     </p>
+                     <p>
+                        <hi>The first half-file ſtand.</hi>
+                     </p>
+                     <p>
+                        <hi>By half file-leaders on the right and
+<pb n="8" facs="tcp:65874:11"/>left wings, double your ranks to the front caracolling to the right and left</hi>
+                     </p>
+                     <p>
+                        <hi>The laſt half-file ſtand.</hi>
+                     </p>
+                     <p>
+                        <hi>The firſt half file by Caracol to the right and left on the wings, double your ranks to the reare.</hi>
+                     </p>
+                     <p>
+                        <hi>By half-file leader in the centre double your ranks to the front.</hi>
+                     </p>
+                     <p>At this word of Command the firſt half file muſt open the half rank to the right and left.</p>
+                     <p>
+                        <hi>The firſt half file by caracol to the right and left double your ranks to the reare.</hi>
+                     </p>
+                     <p>
+                        <hi>To the front as ye were.</hi>
+                     </p>
+                     <p>For obeying of this word of Com<g ref="char:EOLhyphen"/>mand, the laſt half file muſt open the half rank to the right and left.</p>
+                     <p>It is to be obſerved, that the Horſe turn neither to the right nor left a<g ref="char:EOLhyphen"/>bout, to reduce themſelves as they were, nor to cloſe their ranks to the rear.</p>
+                     <figure>
+                        <figDesc>battle scene with two infantries</figDesc>
+                        <head>A Fight of Foote againſt Foote.</head>
+                     </figure>
+                  </div>
+               </div>
+               <div type="part">
+                  <head>Of Counter-marches.</head>
+                  <p>Here the Command is to be given, is it is done to the Foot, but it is moſt neceſſary for Cavalrie, to gain ground on the front.</p>
+               </div>
+               <div type="part">
+                  <head>How Converſion is to be performed.</head>
+                  <p>Before we ſpeak of Converſions, we muſt diſtinguiſh between wheel<g ref="char:EOLhyphen"/>ing by converſion, and wheeling by <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>aracol; wheeling by converſion is performed by the front of the ſqua<g ref="char:EOLhyphen"/>dron, ſo that it is the rank and not the file which makes the motion.</p>
+               </div>
+               <div type="part">
+                  <head>Of wheeling by Caracol.</head>
+                  <p>Wheeling by Caracol is made by <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he depth of the ſquadron, and it is
+<pb n="10" facs="tcp:65874:14"/>the file that makes the motion by <hi>Paſ<g ref="char:EOLunhyphen"/>ſades,</hi> which is a ſerpentine moving on a ground ſome this, and ſome tha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> way.</p>
+               </div>
+               <div type="part">
+                  <head>Of the volte-face, or facing about.</head>
+                  <p>To face about, one muſt turn to the right or left about, as ſhall appear by the following words of Command.</p>
+                  <p>The motions of <hi>Converſion</hi> and <hi>Ca<g ref="char:EOLhyphen"/>racol</hi> are performed by wheeling, ma<g ref="char:EOLhyphen"/>king a circle, or part of one; ſo that the only difference between them is that wheeling by <hi>Converſion</hi> is made by the front of the ſquadron, and the <hi>Caracol</hi> by the depth or flank of it, as may be ſeen by the following Com<g ref="char:EOLhyphen"/>mands.</p>
+                  <div type="section">
+                     <head>The words of Command.</head>
+                     <p>
+                        <hi>Mind me; to the right by converſion.</hi>
+                     </p>
+                     <p>At this word of command the right leg is to be cloſed to the Horſe, and the knee to touch the right hand mans.</p>
+                     <pb n="11" facs="tcp:65874:14"/>
+                     <p>The ſame command is made to the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ft; thus,</p>
+                     <lg>
+                        <l>Cloſe the left wing.</l>
+                        <l>Cloſe the left leg.</l>
+                     </lg>
+                  </div>
+                  <div type="section">
+                     <head>Words of Command.</head>
+                     <p>
+                        <hi>By half ranks and by converſion di<g ref="char:EOLhyphen"/>vide the ſquadron into two Troops.</hi>
+                     </p>
+                     <p>And to reduce the ſquadron, this word of command is to be given.</p>
+                     <p>
+                        <hi>Mind me; by Converſion the ſqua<g ref="char:EOLhyphen"/>dron into one Troop.</hi>
+                     </p>
+                     <p>Or otherwayes thus:</p>
+                     <p>
+                        <hi>Mind me; the left wing advance by converſion.</hi>
+                     </p>
+                  </div>
+                  <div type="section">
+                     <head>The words of Command for wheel<g ref="char:EOLhyphen"/>ing by Caracol.</head>
+                     <p>
+                        <hi>Mind me; the right wing to the left by Caracol, face about to the rear.</hi>
+                     </p>
+                     <p>The Caracol may be performed by half ranks; but it is to be obſerved, that they who command the half rank, make uſe of the word of command above-mentioned.</p>
+                  </div>
+                  <div type="section">
+                     <pb n="12" facs="tcp:65874:15"/>
+                     <head>The word of Command.</head>
+                     <p>
+                        <hi>By quarter-ranks and by Caracol, di<g ref="char:EOLhyphen"/>vide the ſquadron into four Troops.</hi>
+                     </p>
+                  </div>
+                  <div type="section">
+                     <head>To reduce them again.</head>
+                     <p>
+                        <hi>Quarter Ranks mind me; the ſqua<g ref="char:EOLhyphen"/>dron into one Troop.</hi>
+                     </p>
+                  </div>
+                  <div type="section">
+                     <head>To Command the <hi>Volte-face, or to face about.</hi>
+                     </head>
+                     <p>To the right about is taken for facing about, as in the ſubſequent words of Command.</p>
+                  </div>
+                  <div type="section">
+                     <head>The words of Command.</head>
+                     <p>
+                        <hi>Face about to the right.</hi>
+                     </p>
+                     <p>
+                        <hi>Face to the right.</hi>
+                     </p>
+                     <p>
+                        <hi>By converſion face about to the right.</hi>
+                     </p>
+                     <p>
+                        <hi>By caracol face about to the right.</hi>
+                     </p>
+                     <p>
+                        <hi>By half file face about to the right and left.</hi>
+                     </p>
+                  </div>
+                  <div type="section">
+                     <pb n="13" facs="tcp:65874:15"/>
+                     <head>To draw up in Haye.</head>
+                     <p>
+                        <hi>By half ranks to the right and left, draw up in hay to the front.</hi>
+                     </p>
+                  </div>
+                  <div type="section">
+                     <head>To reduce them again.</head>
+                     <p>
+                        <hi>By Caracol to the right and left as ye were.</hi>
+                     </p>
+                     <p>
+                        <hi>By half rank and by Caracol to the right and left draw up in hay to the rear.</hi>
+                     </p>
+                     <p>
+                        <hi>To the front as we were.</hi>
+                     </p>
+                     <p>
+                        <hi>By half rank to the right and left, draw up in hay.</hi>
+                     </p>
+                     <p>
+                        <hi>By Caracol to the right and left, as ye were.</hi>
+                     </p>
+                     <p>
+                        <hi>By Caracol to the right, draw up in hay.</hi>
+                     </p>
+                     <p>
+                        <hi>By Caracol to the left, as we were.</hi>
+                     </p>
+                  </div>
+               </div>
+               <div type="part">
+                  <head>How Horſe are to fire.</head>
+                  <p>Horſe muſt fire by ranks and by files, and are to detach by <hi>Caracol,</hi> gaining the hand if poſſibly they can;
+<pb n="14" facs="tcp:65874:16"/>that is to ſay, uſing their endeavours to have the enemy on the right hand.</p>
+                  <p>They ſhould detach at a trot, then put on to a gallop, and having diſ<g ref="char:EOLhyphen"/>charged return to their bringers up.</p>
+                  <p>It is to be obſerved likewiſe, that they ſhould detach by the right wing, wheeling by Caracol to the left, and by that means they will have the Ene<g ref="char:EOLhyphen"/>my on the right hand. The rank may fire by the front, and draw off by ca<g ref="char:EOLhyphen"/>racolling to the right and left. They may be made to fire by ranks by con<g ref="char:EOLhyphen"/>verſion, and alwayes fall back to the bringers up of the ſquadron.</p>
+                  <p>Horſe may fire by files, but in that caſe, the ſquadron ought to be ſix or eight in depth, making the right wing-file detach by caracolling to the left, and having diſcharged, fall back again by the ſame order to the place from whence they advanced: So that Horſe may fire in the ſame manner as Foot.</p>
+               </div>
+               <div type="part">
+                  <head>How to fight in a retreat.</head>
+                  <p>To fight in a retreat, ſome ſmall
+<pb n="15" facs="tcp:65874:16"/>parties backed by greater bodies are ſent off; and if it be thought con<g ref="char:EOLhyphen"/>venient that they ſhould diſcharge, then theſe ſmall parties ſhall make uſe of the orders of drawing up in <hi>Hay,</hi> each party firing at the ſame time, and retreating by the help and aſ<g ref="char:EOLhyphen"/>ſiſtance of the other ſmall parties who ought to ſecond them, till afterward obeying the ſame orders again, they come to the aſſiſtance of thoſe that ſeconded them.</p>
+               </div>
+               <div type="part">
+                  <head>How to make Horſe file off.</head>
+                  <lg>
+                     <l>On the right wing file off by ranks.</l>
+                     <l>On the left wing form the ſquadron.</l>
+                     <l>File off by ranks on the left wing.</l>
+                     <l>Form the ſquadron on the right.</l>
+                     <l>File off by three files.</l>
+                     <l>On the left wing form the ſquadron.</l>
+                  </lg>
+                  <p>I think it more convenient to file off by files than by ranks, ſince that three files make a ſquadron, which one rank does not.</p>
+               </div>
+            </div>
+            <div n="2" type="chapter">
+               <pb n="16" facs="tcp:65874:17"/>
+               <head>CHAP. II. <hi>How Horſe are to fight againſt Horſe.</hi>
+               </head>
+               <p>HE that commands the Squadron muſt know who they are he is to fight, <hi>to wit,</hi> if they be <hi>Gend'arms Light-horſe, Dragoons</hi> or Musketeers becauſe the two former of theſe are to be attacked by the left wing, and the others by the right.</p>
+               <figure>
+                  <figDesc>battle scene with two cavalries</figDesc>
+                  <head>H. A Fight of Horſe againſt Horſe.</head>
+               </figure>
+               <p>We have told you that in fighting <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gainſt Dragoons and other Musket<g ref="char:EOLhyphen"/>eers, they muſt be Attacked on the <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ght wing, which is a conſiderable <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dvantage being taken ſeaſonably, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or it is getting the hand of thoſe a<g ref="char:EOLhyphen"/>gainſt whom we fight.</p>
+               <div type="part">
+                  <head>How Horſe are to fight againſt Foot.</head>
+                  <p>When Cavalrie has a deſign to At<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ack a Battallion of Foot, before <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hey come within Musket-ſhot, the Cavalrie muſt have received their Orders, ſending off ſome out-riders, who ought to advance ſtreight againſt <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he <hi>Plotons</hi> or ſmall Skirmiſhing bo<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ies, receiving their fire, and vigour<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uſly to force them in diſorder to re<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>reat towards the Pikes, o;r towards <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he Center of the Battallion, and at <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hat time the Squadron ſhould ad<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ance by depth, <hi>Caracolling</hi> and En<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>aging the Battallion by one of the Angles, charging the Pikes, and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>aſſing ſidewayes by them and not
+<pb n="18" facs="tcp:65874:19"/>advancing ſtreight towards them<g ref="char:punc">▪</g> otherwayes out of every Troop there may be three or four detached in a File, which ought to advance at a gallop, and ſo ſoon as they come within Musket-ſhot, charge the Plo<g ref="char:EOLhyphen"/>tons, and afterward by Caracol paſs by the Front and wings, obliging the Battallion to charge to the Horſe<g ref="char:punc">▪</g> at the ſame time the Squadron ought to follow, Charging on the angle o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the Battallion, ſetting on the Pikes by the flank, and in that manner the Bat<g ref="char:EOLhyphen"/>tallion is to be broken. It is to be ob<g ref="char:EOLhyphen"/>ſerved that Horſe ſhould alwayes have their files cloſed, and not their ranks.</p>
+                  <p>Foot may likewiſe be fought in the following order; making a double Squadron; and when they approach within Musket-ſhot, the ſquadron i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> to be divided by half ranks into fou<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Troops, and by <hi>Caracol</hi> to the right and left the two firſt ſhould paſs o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the front and on one of the wings<g ref="char:punc">▪</g> the third ought to Charge ſtreight on the angle, or according as occaſion requires Attack the Pikes ſide-wayes,
+<pb n="19" facs="tcp:65874:19"/>whether it be on the front, or flank, and then the fourth Troop ſhould make good what the third could not. It is to be obſerved that ſo ſoon as the Horſe are within ten paces of the Battallion, they ought to fire, and at the ſame time draw their ſwords.</p>
+               </div>
+               <div type="part">
+                  <head>How Foot are to fight againſt Foot.</head>
+                  <p>If a Regiment of Foot marching in an Enemies Country, find a Regiment of the Enemies in an advantagious Poſt, which hinders their march; the Regiment that is to paſs, muſt uſe endeavours to draw the Enemy to an Engagement, making as if they intended to retreat, that they may allure them out of their Poſt; and having drawn them out into a con<g ref="char:EOLhyphen"/>venient ground, they are to face a<g ref="char:EOLhyphen"/>bout to the right, and march towards the Enemy in order of Battel, and advancing two ſteps ſhall let flie their Piſtols, and return to their ranks; then all the Musketeers ſhall fire, three ranks together, at the ſame time draw<g ref="char:EOLhyphen"/>ing
+<pb n="20" facs="tcp:65874:20"/>their Swords and preſenting the Pikes; and all the Companies being engaged pell-mell, ſhould fight til<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the one be overcome and ask Quar<g ref="char:EOLhyphen"/>ters. The figure <hi>A</hi> clearly repre<g ref="char:EOLhyphen"/>ſents the way of fighting.</p>
+               </div>
+               <div type="part">
+                  <head>How Squadrons are to be detached and formed at the ſame time.</head>
+                  <p>The Horſe are to Caracol to the right and left, and open the half rank, then form the Squadron fifty in Front.</p>
+                  <p>
+                     <hi>By Caracols to the right and left, open your half Ranks, and form the Squadron fifty a breaſt fronting about to the Rear.</hi>
+                  </p>
+               </div>
+               <div type="part">
+                  <head>How Squadrons are to be formed.</head>
+                  <p>They are to double on the left Wing by three Ranks, and on the ſame Front with the firſt. There are two things to be obſerved when the Squa<g ref="char:EOLhyphen"/>dron is formed, and that the Front is to be changed into any other place what<g ref="char:EOLhyphen"/>ſoever; to do it by Caracols, or to do it
+<pb n="21" facs="tcp:65874:20"/>by Converſion; by half-ranks, or Quar<g ref="char:EOLhyphen"/>ter-ranks, if by Converſion; but if by <hi>Caracol,</hi> it is done in a whole body.</p>
+                  <p>Two Troops that can Squadron themſelves together, to form their Squadrons in the order of a march; if they march in the ſame Front, the firſt ſhould take the right and the o<g ref="char:EOLhyphen"/>ther the left hand, and in that order march. If they deſire to form the Squadron, the Troop on the right hand ſhould advance about twenty paces, and reduce themſelves to three in depth. That which holds the left in its place ſhall do the ſame, and then ought to double on the left of the Troop which hath advanced, and in the ſame Front, that the Squa<g ref="char:EOLhyphen"/>dron may be formed by two Troops: but if the one march in the Rear of the other, by the ſame orders the Captains ſeverally ſhall reduce their Troops into three in depth; and thereafter the laſt ought to double to the left and in the ſame Front with the firſt, that the Squadron may be compoſed of two Troops.</p>
+                  <pb n="22" facs="tcp:65874:21"/>
+               </div>
+               <div type="part">
+                  <head>A Regulation made by the late King <hi>Lewis</hi> XIII. concerning the diſ<g ref="char:EOLhyphen"/>putes that aroſe among the Officers of the Army in the year <hi>1635.</hi>
+                  </head>
+                  <p>We ſhall in the firſt place, declare what is to be done betwixt the French Officers and the ſtrangers. It is a thing paſt all doubt, that a Maſter de<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Camp of Horſe ought to Command a ſtranger Colonel, provided the Colo<g ref="char:EOLhyphen"/>nel and Maſter de Camp be one and the ſame thing. The Colonel ſhall command all the French Captains, and the French Captains ſhall com<g ref="char:EOLhyphen"/>mand the Lieutenant-Colonels of ſtrangers, as likewiſe all the French Captains who Command not a body of men; and if a ſtranger Lieutenant be with a French Corner, the Lieurenant ſhall command him; but a ſtranger Cornet ſhall command a French Quar<g ref="char:EOLhyphen"/>ter-maſter: and whereſoever French and ſtrangers are together the French have the right hand; but if the Cap<g ref="char:EOLhyphen"/>tain be a ſtranger, he ſhall take the
+<pb n="23" facs="tcp:65874:21"/>right hand of the French Lieutenant, though his Troop be on the left Wing of the Squadron.</p>
+                  <p>As to the diſputes that happen be<g ref="char:EOLhyphen"/>tween the Horſe and Foot, for the Command in the Field, and in Quarters that are not walled, which are called places of <hi>Approach,</hi> the Horſe ought to Command there: but in all places that are incloſed with walls, having Gates that lock, and draw-bridges, and are invironed with Ditches, in ſuch places it belongs to the Foot to Com<g ref="char:EOLhyphen"/>mand. The Maſter de Camp of Ca<g ref="char:EOLhyphen"/>valrie in places that are open, ſhall Command the Colonels of Foot; but the Colonel of Foot ought to Com<g ref="char:EOLhyphen"/>mand the Maſter de Camp of Horſe in Towns and Walled places. Now the Charge of Maſter de Camp of Horſe being above that of a Captain, if he be in a walled place, where the Foot have no Officers above Captains, the Maſter de Camp of Horſe ſhould Command the Captains; and in all open Quarters the Captain of Horſe ſhould Command Lieutenant Colo<g ref="char:EOLhyphen"/>nels
+<pb n="24" facs="tcp:65874:22"/>and Captains of Foot; and the Captains of Foot ſhould Command the Lieutenants of Horſe; and in cloſe places where there are none but Lieutenants of Foot, and a Cap<g ref="char:EOLhyphen"/>tain of Horſe, the Captain muſt Command, becauſe the Captains have their Commiſſions from the King, and not the Lieutenants; and in open places the Lieutenant ſhould Command the Cornets of Horſe; and in walled places, the Lieutenant is to Command the Enſign, and the Cor<g ref="char:EOLhyphen"/>net the Serjeants: ſo that the one has no advantage of the other, it is but only ambition; for the perſons who diſcharge theſe Offices are rather to be conſidered, than any difference that is between the Charges; and therefore they ought to make a right choice.</p>
+                  <p>There is alſo a regulation between the Serjeants of Battel, and the Ma<g ref="char:EOLhyphen"/>ſters de Camp of Cavalrie and Colo<g ref="char:EOLhyphen"/>nels of Foot, who pretend not to be obliged to obey the Serjeant of Bat<g ref="char:EOLhyphen"/>tel; but ſeeing it is true that he Com<g ref="char:EOLhyphen"/>mands
+<pb n="25" facs="tcp:65874:22"/>in abſence of the Mareſchals de Camp, his Charge is above the o<g ref="char:EOLhyphen"/>ther Officers.</p>
+                  <p>There happen many times ſome conteſts between the Captains of the Gend'arms, and the Maſter de Camp of Horſe. The Captains of the Gen<g ref="char:EOLhyphen"/>d'arms, and the Maſter de Camp of Horſe, meeting together, the Cap<g ref="char:EOLhyphen"/>tain of the Gend'arms is to Com<g ref="char:EOLhyphen"/>mand the Maſter de Camp, the Ma<g ref="char:EOLhyphen"/>ſter de Camp the Lieutenant of the Gend'arms, the Lieutenant of the Gend'arms the Captain of the Light Horſe, the Captain the Enſign of the Gend'arms, the Enſign the Lieutenant of the Light-Horſe, the Lieutenant of the Light-Horſe the <hi>Guidon</hi> of the Gend'arms, the Guidon of the Gen<g ref="char:EOLhyphen"/>d'arms the Cornet of the Light-Horſe, the Cornet of the Light-Horſe the Quarter-maſters of the Gend'arms, and the Quarter-maſter of the Gend'arms the Quarter-maſter of the Light-horſe.</p>
+                  <p>There hath been heretofore great diſpute between the Maſters de Camp of Foot, and the Captains of the
+<pb n="26" facs="tcp:65874:23"/>Guards; which diſpute was thus de<g ref="char:EOLhyphen"/>cided by the King.</p>
+                  <p>That the Maſters de Camp of <hi>Pi<g ref="char:EOLhyphen"/>cardie, Piedmont, Champagne, Na<g ref="char:EOLhyphen"/>varre,</hi> and <hi>Normandie</hi> ſhould com<g ref="char:EOLhyphen"/>mand the Captains of the Guards, and the Captains of the Guards all other Maſters de Camp; and that the other Maſters de Camp ſhould Command all Lieutenant Colonels, and the Captains of the old Regi<g ref="char:EOLhyphen"/>ments ſhould Command the Lieu<g ref="char:EOLhyphen"/>tenant Colonels of other Regiments, and that the Lieutenants of the Guards ſhould obey the Captains of the old Regiments.</p>
+                  <p>All theſe regulations were made to prevent the diſorders that might hap<g ref="char:EOLhyphen"/>pen amongſt Officers: the King hath very well provided againſt them, and by his ſage conduct obliges the Officers to diſcharge their duties, and to have no other paſſion but of do<g ref="char:EOLhyphen"/>ing good ſervice; and for that end his Majeſty gives them an example, making the Troops of his Houſhold do their exerciſes frequently, he hath
+<pb n="27" facs="tcp:65874:23"/>made injunctions to all the Officers of his Armies, to ſee his forces well exerciſed, and made dextrous in handling of their Arms; to wit the Pikes, to manage their Pikes aright whether by themſelves or in Battal<g ref="char:EOLhyphen"/>lions; the Musketeers to uſe their Muskets skillfully by giving quick fire. It is a thing very neceſſary that a Musketeer know to hit a mark, to the end that on occaſion he may be able to fire to purpoſe. Musket<g ref="char:EOLhyphen"/>teers may be taught to ſhoot well in Gariſons eſpecially, the Officers giv<g ref="char:EOLhyphen"/>ing ſome reward to thoſe that ſhoot beſt at a mark; that encourages, and obliges them to ſhoot well, which makes a Musketeer very conſiderable on ſeveral occaſions, and eſpecially in fighting againſt Horſe.</p>
+               </div>
+               <div type="part">
+                  <head>How Foot are to Fight againſt Horſe.</head>
+                  <p>If Foot march in Battallia in an Enemies Country, and ſome Body of the Enemies Horſe be diſcovered, then ſhall the Foot make a Batrallion
+<pb n="28" facs="tcp:65874:24"/>with four ſtrong <hi>Plotons</hi> or parties for skirmiſh, and double ranks of Pikes to reſiſt the Horſe, whilſt three ranks of Musketeers ſhall prepare to give their Vollee at the firſt Piſtol<g ref="char:EOLhyphen"/>ſhot, which is ten or twelve paces from the Foot; then if the Pikes with ſwords in hand, purſue them vigorouſly, without doubt the Squa<g ref="char:EOLhyphen"/>dron will be put into great diſorder, and all by the means of good Mus<g ref="char:EOLhyphen"/>keteers who have had the right art of pitching on their men, and have made as many fall as they have fired ſhot, being thereto taught by their good diſcipline: ſo ought all the Of<g ref="char:EOLhyphen"/>ficers ſtudy to be capable of their Charges, and by that means the Com<g ref="char:EOLhyphen"/>manders may make good uſe of their Troops in what place ſoever the Ar<g ref="char:EOLhyphen"/>my be, and eſpecially when the Ene<g ref="char:EOLhyphen"/>mies are in a condition to fight. Horſe are very neceſſary in an Army; on them depends the good ſucceſs of all enterpriſes; by them an Army becomes maſter of the field, if it be ſtronger in Cavalrie than the
+<pb n="29" facs="tcp:65874:24"/>Enemy: by them the Forces and all Gariſon-places have daily their Proviſions by means of Convoyes and Forrages, which cannot be ſecurely brought without Guards of Horſe: they reduce the Enemy to great ſtreights, by intercepting their Con<g ref="char:EOLhyphen"/>voys and Foragers, ravaging their Country by continual Parties, beat<g ref="char:EOLhyphen"/>ing up their Quarters, and making frequent courſes and inrodes amongſt them.</p>
+                  <p>In ſo much that there is hardly any Enterpriſe wherein Horſe are not with great profit employed. Now ſeeing the Cavalrie is compoſed of ſeveral Regiments, and the Regiments of ſe<g ref="char:EOLhyphen"/>veral Troops, that they may render the ſervice and advantage that is ex<g ref="char:EOLhyphen"/>pected from them either in general or particular; it is neceſſary that the Troops be made up of good riders, and that they be led and Commanded by Officers of note, and expert in the Art of War.</p>
+                  <p>It is moſt important for the ſervice of the King, that the Troops which
+<pb n="30" facs="tcp:65874:25"/>make up the Forces of his Majeſties Cavalrie, be not only compleat, and furniſhed with men well mounted, well armed, and in good Equipage; but that they be alſo led and com<g ref="char:EOLhyphen"/>manded by Officers of experience and merit, that ſo they may be better o<g ref="char:EOLhyphen"/>beyed by their Troopers, who will have a far greater eſteem for them, when they know their valour and good conduct.</p>
+               </div>
+            </div>
+            <div n="3" type="chapter">
+               <head>CHAP. III. <hi>Of the duties of the Officers of Horſe; and in the firſt place of the Captain.</hi>
+               </head>
+               <p>THE Captain ought to chuſe Officers, who underſtand a<g ref="char:EOLhyphen"/>right the Art and Duty of their Charges, as being the chief members which he is to uſe in making the Bo<g ref="char:EOLhyphen"/>dy act whereof he is the head.</p>
+               <p>Eſpecially a Lieutenant, and Quar<g ref="char:EOLhyphen"/>ter-maſter,
+<pb n="31" facs="tcp:65874:25"/>as being the moſt im<g ref="char:EOLhyphen"/>portant, as ſhall be ſhewed hereaf<g ref="char:EOLhyphen"/>ter.</p>
+               <p>Now to fill the charge of a Lieu<g ref="char:EOLhyphen"/>tenant well, he ought to ſeek out for a diſcreet man, experienced in the profeſſion of Cavalrie, and who hath for ſeveral Campagnes ſerved with care and aſſiduity. That being known, the Captain may be aſſured that the Lieutenant in his abſence may very well take the care and conduct of his Troop, and diſcharge the ſame duty that himſelf is obliged to per<g ref="char:EOLhyphen"/>form.</p>
+               <div type="part">
+                  <head>Of the principal duties of a Lieutenant.</head>
+                  <p>The Lieutenant ought to know all the men of the Troop by name: he ought to puniſh the ſwearers, quar<g ref="char:EOLhyphen"/>rellers, drunkards, and the other<g ref="char:EOLhyphen"/>wayes debauched, conniving at no vice in them: he ought to be kind to thoſe that have merit, and upbraid ſuch as fail in their duty, puniſhing them rigourouſly if they continue to
+<pb n="32" facs="tcp:65874:26"/>be negligent: that is the way to be<g ref="char:EOLhyphen"/>come both beloved and feared of the Troopers. He ſhould procure him<g ref="char:EOLhyphen"/>ſelf eſteem by his conduct, having the qualities of a man of honour, wiſe and diſcreet, ſober in his diet, pru<g ref="char:EOLhyphen"/>dent in his diſcourſe, and above all valiant and ſtout, which makes the brave Souldiers in imitation of him, emulous to be men of worth, and to ſerve their King well.</p>
+                  <p>He ought ſometimes to viſit their Horſes and Arms, recommending to them the care of them, publickly and ſmartly rebuking thoſe that are neg<g ref="char:EOLhyphen"/>ligent of either, and ſeverely puniſh<g ref="char:EOLhyphen"/>ing them if they abuſe his goodneſs and patience.</p>
+               </div>
+               <div type="part">
+                  <head>Of a March.</head>
+                  <p>In a March the Lieutenant ought to march at the Rear of the Troop or Squadron, to make the Troopers keep cloſe, taking heed that none ſtay behind, obliging them to follow their File-leaders, ſuffering none to
+<pb n="33" facs="tcp:65874:26"/>quit their ranks, nor leave the Stan<g ref="char:EOLhyphen"/>dard without permiſſion.</p>
+                  <p>When there is an opportunity of fighting the Enemies, the Lieutenant ought to be at the rear of the Squadron with his Sword in hand, obliging the Troopers to do their duty, making the laſt rank, well cloſed, and in good order, follow the other two; puniſh<g ref="char:EOLhyphen"/>ing him that would flie and turn his back, and by that example oblige the reſt to do their duties.</p>
+                  <p>When the Captain on ſuch an occa<g ref="char:EOLhyphen"/>ſion is abſent, as at any other time, the Lieutenant is to take the Captains Poſt, and march at the head of the Squadron, placing at the rear, and in his own Poſt, the Quarter-Maſter; and in the Poſt of the Quarter-Maſter on the Wings, the firſt Brigadeer, fil<g ref="char:EOLhyphen"/>ling up all the places of the Officers, that no diſorder may happen by the Captains abſence.</p>
+               </div>
+               <div type="part">
+                  <pb n="34" facs="tcp:65874:27"/>
+                  <head>Of the Guard of a Camp.</head>
+                  <p>When the Captain is Commanded out for the guard of the Camp, or of a Quarter, or to relieve it, and is come to his Poſt, the Lieutenant is to put the Troop into Battallia, keeping at the head of the Squadron, expect<g ref="char:EOLhyphen"/>ing till the Captain be informed of what he has to do, and that he go with the Quarter-Maſter to place the <hi>Vedettes,</hi> inſtructing them in the mean time what they are to do, until the Captain return and give the other neceſſary Orders for the ſecurity of his Guard.</p>
+               </div>
+               <div type="part">
+                  <head>Of the duties of the Cornet.</head>
+                  <p>The Captain ought to chuſe a man for Cornet to his Troop, who is of the ſame integritie and hath the like qualities as we have aſſigned to the Lieutenant, becauſe he is often obli<g ref="char:EOLhyphen"/>ged to mount the Guard, and perform the other duties in abſence of him.
+<pb n="35" facs="tcp:65874:27"/>A young Gentleman who hath ſeen and ſerved in a Campagn, and ſome<g ref="char:EOLhyphen"/>times by favour, is commonly placed in that charge: his Function is to carry the Standard on a day of entry or muſter, that he may ſalute the King, or in his abſence, the General of the Army. His Poſt is at the Captains left hand, the length of his Horſe, or about ſeven foot more backward to<g ref="char:EOLhyphen"/>wards the Squadron. In day of Bat<g ref="char:EOLhyphen"/>tel he ought to carry the Standard, and preſerve it with the danger of his life.</p>
+                  <p>Moreover, the Cornet ought to have a great reſpect for his Captain. He ſhould likewiſe behave himſelf towards his Lieutenant with marks of eſteem and ſubmiſſion, whereby he will gain the good will and eſteem of his Superiour Officers. He ſhould have a regard to the Quarter-Maſter, and be civil to the Brigadeers; in a word, he ſhould ſtrive to procure the love and eſteem of the Troopers, and interpoſe amongſt them to take up their quarrels, and make them friends;
+<pb n="36" facs="tcp:65874:28"/>but if he find difficultie in the matter, and that the authority of the Captain or Lieutenant be requiſite, he ſhall inform them of the buſineſs, repre<g ref="char:EOLhyphen"/>ſenting to them the ground of the quarrel, and the reaſons of either party, that they may do Juſtice, and by their authority kill the reſent<g ref="char:EOLhyphen"/>ments, which either may entertain againſt other, that ſo the troubleſome accidents may be avoided which con<g ref="char:EOLhyphen"/>teſts produce in a Troop, when the Officers prevent them not.</p>
+               </div>
+               <div type="part">
+                  <head>Of the Quarter-Maſter.</head>
+                  <p>The Captain ſhould chuſe for his Quarter-Maſter, an active and expe<g ref="char:EOLhyphen"/>rienced man, who is wiſe and well affected to the ſervice; for the ma<g ref="char:EOLhyphen"/>nagement of the ſubſiſtance and ſer<g ref="char:EOLhyphen"/>vice of the Troop, is performed by his order. He ought to know to read, write, and caſt account, as far as the rule of Society, for he ought to keep the Roll and Catalogue of all the Troopers, with their Names, Sir<g ref="char:EOLhyphen"/>names,
+<pb n="37" facs="tcp:65874:28"/>places where they were born, and their Countrey, as alſo of their caſual goods, booties and prizes gain<g ref="char:EOLhyphen"/>ed from their Enemies. It is his duty likewiſe to go daily and receive the word. He ought to be exact, when he has received it, to write it down with the Counter-word, that he may remember them, and according to the duty of his place, carry it to his Of<g ref="char:EOLhyphen"/>ficers where they are. He ought to have a care to learn the manners of every private Trooper, that on occa<g ref="char:EOLhyphen"/>ſions he may know who are fit to be commanded, having conſidered their Horſes, and from thence being able to judge of thoſe who are moſt pro<g ref="char:EOLhyphen"/>per to execute the intended ſervice. It is his part to be careful frequently to viſit the Troopers Horſes, obliging them to feed, dreſs, and ſhoe them well, to keep their Equipage in good condition, and ſeverely to puniſh thoſe that neglect that duty. He is alſo to take notice of their Arms, and oblige them to keep them always clean, and cauſe them to be refitted
+<pb n="38" facs="tcp:65874:29"/>when they want any the leaſt thing. It belongs to him to entertain friend<g ref="char:EOLhyphen"/>ſhip amongſt the Troopers, making them live orderly, puniſhing the quar<g ref="char:EOLhyphen"/>relſome and thoſe that love tumult; as alſo Swearers, Drunkards, and ſuch as lead a life of bad example; and if he cannot reclaim them by reproofs, he is to complain of them to the Cap<g ref="char:EOLhyphen"/>tain, that he may order them, either by Priſon, or diſmounting and ſhame<g ref="char:EOLhyphen"/>fully caſheering them, as men un<g ref="char:EOLhyphen"/>worthy to carry a Sword, far leſs the name of Trooper; and on the other hand, he is to ſhew kindneſs to ſuch as are of merit, doing them all the good Offices he can, either of himſelf or with the Officers, yea, and in their Quarters, and that ſo long as they ſhall not abuſe them, and ſhall do their duties.</p>
+                  <p>In Marches, the Quarter-Maſter ſhould daily receive Orders from the Captain to go to the Quarters, and take occaſion to go before, that he may arrive in time. So that the Cap<g ref="char:EOLhyphen"/>tain when he comes with his Troop
+<pb n="39" facs="tcp:65874:29"/>may find his Quarters, and the pro<g ref="char:EOLhyphen"/>viſions if any be to be given out, ready, that the Troop may not be obliged to remain long on Horſeback in the Streets; which wearies and ſpoils the Horſes, particularly after a long march, and eſpecially in the heat of Summer, or otherways in bad wea<g ref="char:EOLhyphen"/>ther, when the days are ſhort, and they come late to their Quarters, a thing that may prove very prejudi<g ref="char:EOLhyphen"/>cial to the ſervice of the King, and of the Captain himſelf. And there<g ref="char:EOLhyphen"/>fore the Quarter-Maſter, when he goes to take up Quarters, ſhould with his Captains conſent, take with him two or three Troopers whom he may judge fit to aſſiſt him in preparing the Quarters with greater diligence; and he ſhould not fail ſo ſoon as he is come to the place, and has ſhewed his Orders to the Magiſtrates, and thoſe that have authority, to inform them of the number of ſervants that the Captain entertains, and of the condition of his Equipage, and of the Equipages of the other Officers,
+<pb n="40" facs="tcp:65874:30"/>that the Magiſtrates or others in au<g ref="char:EOLhyphen"/>thority, may commodiouſly quarter them. He ſhall therefore with all ex<g ref="char:EOLhyphen"/>pedition cauſe the Officers Billets be made, or elſe ſhall inform himſelf of their Quarters, and go view them, that he may ſee that their Lodgings be convenient, and that they may not have afterwards cauſe to complain of his negligence; and when he knows that the Troop draws near, he is to go meet them, that he may conduct the Captain and Troop to their Quar<g ref="char:EOLhyphen"/>ters; provided, he be intruſted to deliver them their Billets. But if the Magiſtrates or others in authority have a mind to reck on the number of effective Quarterings, he is to con<g ref="char:EOLhyphen"/>duct the Captain with his Troop to the Town-Houſe, cauſing the effective Quarterings to be reckoned; and their Billets being delivered, he is to conduct the Captain to his Quarters, where he is to draw up the Troop in <hi>Haye</hi> before the Gate or Door, to whom he is to diſtribute the Billets, making them in order draw them out
+<pb n="41" facs="tcp:65874:30"/>of a Hat, deſiring all the Troopers to be civil to their Landlords, and to have a care not to give them any cauſe of complaint.</p>
+                  <p>If they be to ſtay there any time, in diſtributing the Billets, he ought to take in writing the names of the Troopers, and their Landlords, and to make a liſt of them, then next day go and viſit the Horſes, to ſee if any be hurt, and if any Landlord com<g ref="char:EOLhyphen"/>plain, to the end he may remedie every thing by bringing neceſſary or<g ref="char:EOLhyphen"/>ders for that effect.</p>
+                  <p>When the Trumpet ſounds to Horſe, and that they muſt be gone, the Quarter-Maſter ought to be the firſt on Horſe-back, to haſten the Troopers, and make them in diligence repair to the Captains Quarters, chi<g ref="char:EOLhyphen"/>ding thoſe that come laſt; and if he obſerve that any of them be accu<g ref="char:EOLhyphen"/>ſtomed ſo to do, whether it be for lazineſs, or out of deſign to ſtay be<g ref="char:EOLhyphen"/>hind to ſteal and pilfer from their Landlords, he ſhall ſeverely puniſh them for an example to the reſt.</p>
+                  <pb n="42" facs="tcp:65874:31"/>
+                  <p>When he comes into Winter-Quar<g ref="char:EOLhyphen"/>ters, he ought to viſit all the Troop<g ref="char:EOLhyphen"/>ers Quarters, and know the conve<g ref="char:EOLhyphen"/>niences of them and the condition of the Landlords, and acquaint the Cap<g ref="char:EOLhyphen"/>tain therewith, to the end that he may order the diſtribution of a part of the Billets, that he may accommo<g ref="char:EOLhyphen"/>date thoſe who have moſt need, and then cauſe the reſt to be drawn by Lot.</p>
+                  <p>On a march of importance, he is to march on the Wings of the Troop or Squadron, and from time to time go from the Front to the Rear, and from the Rear to the Front, to make them keep their diſtances, and march in good order, hindering the Troop<g ref="char:EOLhyphen"/>ers to break out without permiſſion. If there be an occaſion of fighting, he ſhould march on the Wings of the Squadron, with his Sword in his hand, making them cloſe their ranks, ob<g ref="char:EOLhyphen"/>ſerve their diſtances, and hinder them from breaking.</p>
+               </div>
+               <div type="part">
+                  <pb n="43" facs="tcp:65874:31"/>
+                  <head>Of the duty of Brigadeers.</head>
+                  <p>The Brigadeers ought to be men of experience, old Troopers, and as ca<g ref="char:EOLhyphen"/>pable as the Q<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>arter-Maſter, and en<g ref="char:EOLhyphen"/>dowed with the ſame qualities, be<g ref="char:EOLhyphen"/>cauſe in his abſence one of them muſt always diſcharge his Functions, and beſides they muſt read and write, and each of them keep a Roll of their Brigade; that they may make the Troopers do duty by turns. The Troop being ſo divided into Brigades, the duties will be far better perform<g ref="char:EOLhyphen"/>ed, and the detachments made in or<g ref="char:EOLhyphen"/>der and without confuſion, whether by Brigadeer, with his whole Brigade, and ſucceſſively the one after the other, or by Troopers detached from each Brigade, with one of the Briga<g ref="char:EOLhyphen"/>deers at their head, and by that means the Quarters will be given out with leſs confuſion, when the Troop is to be ſeparated that it may be the more eaſily quartered and lodged in ſcatter<g ref="char:EOLhyphen"/>ed Houſes, dividing theſe Precincts by Brigades.</p>
+               </div>
+            </div>
+            <div n="4" type="chapter">
+               <pb n="44" facs="tcp:65874:32"/>
+               <head>CHAP. IV. <hi>Of the Guard of a Camp, or Quarter.</hi>
+               </head>
+               <p>THE moſt important thing for the Guard of a Camp, is to place aright the Courts of Guard, and the <hi>Vedettes,</hi> and it is uſually a Mareſchal de Camp, or the Quarter-Maſter General of the Horſe who chuſes theſe Poſts, and appoints them to the Captains who are to mount the Guard.</p>
+               <p>The Captain being come to the Court of Guard, ought to cauſe his Troop and thoſe that he has for the Guard, to halt: he is to go and view the Poſts of the <hi>Vedettes,</hi> having the Quarter-Maſter and the <hi>Vedettes</hi> that he is to place with him, and cauſing the Quarter-Maſter obſerve their Poſts, to the end he may go relieve, and viſit them during the night.</p>
+               <p>The Captain ſhall inform himſelf
+<pb n="45" facs="tcp:65874:32"/>by the other Captain who is to diſ<g ref="char:EOLhyphen"/>mount the Guard, of the Orders which he muſt obſerve, and of what he is to do, inquiring exactly into all things; and whilſt he goes to Poſt the <hi>Vedettes,</hi> the Lieutenant of the Guard ought to remain on Horſeback at the head of the Squadron which is drawn up in Battallia, expecting the return of the Captain and Quarter-Maſter.</p>
+               <p>The Captain when he places the <hi>Vedettes,</hi> ſhould inform them how they ought to carry themſelves, that they ſhould never leave their Poſts, nor alight from Horſeback; to have always the Carabin or Piſtol in hand; to let none whoſoever come near them, either from the Quarters or from without; and in a word, to let none paſs without making them ſtand, and giving notice to the Court of Guard. The Captain ſhould place two <hi>Vedet<g ref="char:EOLhyphen"/>tes</hi> in one important Poſt, to the end that the one may with diligence come and give notice to the Court of Guard when they have made any to
+<pb n="46" facs="tcp:65874:33"/>ſtand, or have ſeen or heard men; and that the other in the mean time keep cloſe to his Poſt; and for that effect the Captain ought to command the <hi>Vedettes,</hi> that in caſe they hear or ſee men at a diſtance, the one ſhould draw off from the other ſome twenty or thirty paces towards the Court of Guard, to the end that if the <hi>Vedette</hi> that ſhall abide at his Poſt, ſhould not ſtop theſe men, and that on the contrary, he ſhould be by them beaten from his Poſt, the other may have time to come at full ſpeed and give notice to the Court of Guard, diſcharging his Carabin or Piſtol by the way, to make himſelf be heard, and to give the Alarm.</p>
+               <p>The Captain ſhould not only re<g ref="char:EOLhyphen"/>commend all theſe things to the <hi>Ve<g ref="char:EOLhyphen"/>dettes,</hi> but likewiſe that they ſhould take heed if in the night time they diſcover any fire, or by day, ſmoke or duſt raiſed by the marching of Horſe; if they hear Dogs bark more than uſually, and if they hear the report of Fire-arms, and give notice
+<pb n="47" facs="tcp:65874:33"/>of it to the Court of Guard, to the end the Commander may ſend out Scouts to that ſide to learn intelli<g ref="char:EOLhyphen"/>gence of what the <hi>Vedettes</hi> have ſeen or heard. If the <hi>Vedettes</hi> be far ſepa<g ref="char:EOLhyphen"/>rated, that they may poſſeſs the ave<g ref="char:EOLhyphen"/>nues, there muſt be a ſmall Court of Guard conſiſting of twenty or twenty five Troopers, leſs or more, placed according to the ſtrength of the For<g ref="char:EOLhyphen"/>ces, betwixt the <hi>Vedettes</hi> and the great Court of Guard, nearer or far<g ref="char:EOLhyphen"/>ther according as the <hi>Vedettes</hi> are poſted at diſtance; as it happens fre<g ref="char:EOLhyphen"/>quently they are, that they may poſ<g ref="char:EOLhyphen"/>ſeſs, the avenues of ſeveral croſs ways, or the paſs of ſome River, Bridge, or narrow paſſage, or elſe of ſome emi<g ref="char:EOLhyphen"/>nence or height, at the foot of which the <hi>Vedette</hi> is uſually placed; and that little Court of Guard is to be commanded by the Quarter-Maſter, who ſhould relieve the <hi>Vedettes</hi> at the end of every two hours, and now and then viſit them. He is likewiſe to go with his men or part of them, and examine thoſe whom the <hi>Vedet<g ref="char:EOLhyphen"/>tes</hi>
+                  <pb n="48" facs="tcp:65874:34"/>have made to ſtand, making only him to advance who has the word, and to tell it him in his ear, holding the point of his Sword to his Breaſt, who hath advanced to give the word, and from whom he is to take it, that he may know if they be Friends or Foes, and ſo ſtop or let them paſs.</p>
+               <p>When the <hi>Vedettes</hi> ſhall give no<g ref="char:EOLhyphen"/>tice to the Quarter-Maſter, he ſhall inſtantly ſend off a Trooper to ac<g ref="char:EOLhyphen"/>quaint the Captain that the <hi>Vedettes</hi> have made ſome to ſtand, and that he is going to examine them, to the end that the Captain may have time to cauſe his men Horſe, and to put them<g ref="char:EOLhyphen"/>ſelves in condition not to be ſurpriſed by their Enemies. He ſhould ſend out Scouts to a great diſtance, to beat the Country on all hands, and the ways by which the Enemies may come. He is to take ſo great a care, becauſe all the Quarter, or the whole Army confides in him: and there<g ref="char:EOLhyphen"/>fore he ſhould truſt no body but him<g ref="char:EOLhyphen"/>ſelf, ſeeing there is ſo great a confi<g ref="char:EOLhyphen"/>dence repoſed on him and his Guard,
+<pb n="49" facs="tcp:65874:34"/>that obliges him to all imaginable care in the diſcharge of his duty; for the Enemies coming in great number, might beat back the <hi>Vedettes,</hi> ſur<g ref="char:EOLhyphen"/>prife and overthrow the little Court of Guard, and enter the Quarter or Camp, if it happened that the ave<g ref="char:EOLhyphen"/>nues of it were not cut or barrica<g ref="char:EOLhyphen"/>do'd, and guarded by ſome conſider<g ref="char:EOLhyphen"/>able Guard of Foot; for if the Ene<g ref="char:EOLhyphen"/>mies met with no other Forces, than the <hi>Vedettes,</hi> the little and great Guard of Horſe, they might make themſelves Maſters of the Quarter or Camp, ſurpriſed or afleep, for want of timely Alarm given, and leiſure to take Arms, that they might make head againſt the Enemies. As to the manner of ſending out theſe Scouts, The Captain is to detach the beſt mounted and boldeſt Troopers of his Guard, to go out a ſcouting; giving them a word or fignal, by which they may know one another when they chance to meet, and he is to command them to divide themſelves one by one, or two by two, according to
+<pb n="50" facs="tcp:65874:35"/>the divers ways and avenues, ſome to the right and ſome to the left, marching always with great ſilence, and ſtopping and making halt now and then, that they may hearken if they can hear the marching of men; and to advance a league more or leſs, (according as it may be expedient for the ſecurity of the Guard) by all the avenues by which the Enemies may approach; and he is to order them, that if any of them find or hear the Enemies, that if it be poſſible, they ſhould without being diſcovered, know their number as near as they can, and without loſing of time, re<g ref="char:EOLhyphen"/>turn at full ſpeed to give notice to the Court of Guard and Captain; that he may with all diligence cauſe his men to mount, and being in rea<g ref="char:EOLhyphen"/>dineſs in his Court of Guard, ſend immediately notice of the matter to the Generals. He is moreover to or<g ref="char:EOLhyphen"/>der his Scouts, that if they be at ſo great diſtance when they diſcover the Enemies, that they cannot in a long time return to the Court of Guard,
+<pb n="51" facs="tcp:65874:35"/>or that the Enemies march with ſo much diligence that they may come in as ſoon as themſelves, or a little after, they ſhould draw aſide out of the Enemies way, and with all expe<g ref="char:EOLhyphen"/>dition ſet fire to ſome Houſe, from whence the <hi>Vedettes</hi> and Court of Guard might ſee the Fire, and even the Enemies; (for they would not fail to make a halt that they might ſend and know the reaſon of that fire;) and that if they can find no opportunity to make fire ſoon enough, they ſhould propoſe to themſelves to come to ſome place where their firing and claſhing of arms may be ſeen or heard by the <hi>Vedettes,</hi> or Court of Guard, who hearing the ſignal, may inſtantly give notice to the Captain and Court of Guard, that the Ene<g ref="char:EOLhyphen"/>mies are at hand, and by that means he may have time to put himſelf and men in poſture, acquaint the Ge<g ref="char:EOLhyphen"/>nerals with the matter, and give the Alarm to the Quarter or the whole Army, expecting more certain news: In the mean time, he ſhall Command
+<pb n="52" facs="tcp:65874:36"/>the Quarter-Maſter with his little Court of Guard to advance to the Poſts of the <hi>Vedettes,</hi> or farther if need be, that he may view the Ene<g ref="char:EOLhyphen"/>mies and make head againſt them, keeping them in play in ſome narrow paſs, to the end all may get on Horſe<g ref="char:EOLhyphen"/>back and put themſelves in Arms in the Camp or Quarter. The Captain in the mean time, ſhall be with the reſt of his Guard on Horſeback and in good order, not quitting his Poſt upon any account, without the Ge<g ref="char:EOLhyphen"/>nerals Orders: he ſhould ſtay there until he be attacked by the Enemy, againſt whom he is to make head, to ſtop them, and if he can, to beat back their charge, with the danger of his life, and the loſs of all his men.</p>
+               <p>When a Captain Commands the Cavalrie in a Quarter, then he is ex<g ref="char:EOLhyphen"/>empted from mounting the Guard, though his Troop be to mount it in turn, becauſe many inconveniences might happen, if the Captain ſhould be upon the Guard, when Orders came from the Generals, and that he
+<pb n="53" facs="tcp:65874:36"/>who was to execute them ſhould not be in the Quarters; for the Captain that is on the Guard cannot quit his Poſt; and the Enemy might attack the Quarter upon another ſide than that of the Court of Guard; ſo that if the Captain who Commanded the Cavalrie were upon the Guard, he could not give the neceſſary Orders in an Alarm of that nature, nor in any other accident that might happen; but except on that occaſion, he ought without pretext or excuſe, mount the Guard as often as his Standard is com<g ref="char:EOLhyphen"/>manded for that effect.</p>
+               <p>If the Captain Command the Ca<g ref="char:EOLhyphen"/>valrie in a Quarter, and have notice of the march of the Enemy, and that the quarter be in danger of being at<g ref="char:EOLhyphen"/>tacked, he ought to Command all the Horſe to mount, and draw them up in Battallia without the quarter, in ſome advantagious Poſt, according to the Orders of the Officer General, who Commands in the quarter, or<g ref="char:EOLhyphen"/>dering the Troopers to carry with them Forage for their Horſes during
+<pb n="54" facs="tcp:65874:37"/>the time that they are to be in Arms. If that Alarm happen in rainy and tempeſtuous weather, ſo that the Horſe cannot go out and lie in the Fields, without great dammage, and that the neceſſitie be not ſo extream as that they ſhould expoſe themſelves in that manner; then the Captain by Orders from the General needs do no more, but having cauſed ſound to Boots and Saddle, go through all the quarter, and ſend where he cannot go himſelf; Commanding all the Bo<g ref="char:EOLhyphen"/>dies of Horſe to keep together in as few Houſes and Coverts as they can, to the end they may be the more con<g ref="char:EOLhyphen"/>veniently joined to march out in good order againſt the Enemy in caſe of ne<g ref="char:EOLhyphen"/>ceſſitie; and in the mean time he ſhall go the round, and ſend about Offi<g ref="char:EOLhyphen"/>cers to keep the men awake. He ſhall ſend out men towards the Courts of Guard that are without the quarters, that he may have exact intelligence of all that happens. Theſe are cautions very neceſſary in a quarter to prevent a ſurpriſe.</p>
+               <div type="part">
+                  <pb n="55" facs="tcp:65874:37"/>
+                  <head>Cautions that are to be taken in force<g ref="char:EOLhyphen"/>ing of a Quarter.</head>
+                  <p>In all the ſervice of Horſe, there is no occaſion wherein the Captain ought to be ſo circumſpect, as in the enterpriſe of forcing an Enemies Quar<g ref="char:EOLhyphen"/>ter; for there is not any from which he can reap greater advantages, ei<g ref="char:EOLhyphen"/>ther for his honour or profit; and on the other hand, there is no occaſion wherein he runs greater risk of ruin<g ref="char:EOLhyphen"/>ing his reputation, by loſing himſelf and his men: and therefore he ought to be a man of much experience, good judgment, and high reſolution; other<g ref="char:EOLhyphen"/>ways he can never well ſucceed in ſuch enterpriſes; for in War there are none more difficult, nor harder to be atchieved. And that is the reaſon that few Captains run the hazard of ſuch undertakings.</p>
+                  <p>Experience has made always ap<g ref="char:EOLhyphen"/>pear that it is more eaſy to force the Enemies Quarters, when they are at a good diſtance, than when they are
+<pb n="56" facs="tcp:65874:38"/>near, becauſe the more the danger is remote, the leſs vigilant are men to avoid it. And therefore, I ſay, that the moſt uſual cauſe of a ſurpriſe, is too much confidence; for men are never ſooner defeated than when they leaſt apprehend it.</p>
+                  <p>When a Captain has a deſign to force a Quarter, he ought to be aſſu<g ref="char:EOLhyphen"/>red of the nature of the Enemies Poſt, with all its circumſtances; if the avenues be barricado'd, or not; if the flanks be better barricado'd than the avenues, and if there be marſhes or other things that hinder an ap<g ref="char:EOLhyphen"/>proach, in what place is their field of Battel, or place of Arms; if any River or Brook run through the Quarter, or any thing elſe that di<g ref="char:EOLhyphen"/>vides it; but above all things he ſhould be informed by his ſpies of the number and quality of the Forces that are in the Quarter, and of the temper of the Commander; if he be a man of experience, vigilant and reſolute, or if he have any contrary qualities, to the end that the Captain accord<g ref="char:EOLhyphen"/>ing
+<pb n="57" facs="tcp:65874:38"/>to the inſtructions that he has of theſe things may take the beſt mea<g ref="char:EOLhyphen"/>ſures for accompliſhing his deſign.</p>
+                  <p>Being well informed of all, and having laid down his meaſures, he is to march with all his men in great di<g ref="char:EOLhyphen"/>ligence, that he may come up with the Enemies, and ſurpriſe them a lit<g ref="char:EOLhyphen"/>tle before day: on his march he is to obſerve the cautions that we have hinted at before, that is to ſay, that he is to make ſure of good guides, and ſend Out-riders before him until he come near the Quarter; he is alſo to avoid marching by inhabited pla<g ref="char:EOLhyphen"/>ces, or from which he may be diſco<g ref="char:EOLhyphen"/>vered; or in the night time on the great Rodes, but croſs the Countrey, becauſe ſome body may diſcover him, or his tract, and give ſpeedy notice of it to the Enemy; for it often hap<g ref="char:EOLhyphen"/>pens that the Enemy having intelli<g ref="char:EOLhyphen"/>gence of the deſign and march of the contrary party, do take ſo good mea<g ref="char:EOLhyphen"/>ſures, that the Commander of the party with all his men become a prey to thoſe againſt whom they were
+<pb n="58" facs="tcp:65874:39"/>marching. And therefore the Cap<g ref="char:EOLhyphen"/>tain ought to make uſe of his pru<g ref="char:EOLhyphen"/>dence, and conſider the inconvenien<g ref="char:EOLhyphen"/>ces that may befal him; and as he ought to march reſolutely and with<g ref="char:EOLhyphen"/>out fear, ſo likewiſe ſhould he neg<g ref="char:EOLhyphen"/>lect no care and circumſpection, and therefore he ſhould take the beſt mea<g ref="char:EOLhyphen"/>ſures he can to facilitate his retreat, by Poſting ſome Horſe and Foot Com<g ref="char:EOLhyphen"/>manded by an Officer, in the middle or ſome part of the way, to guard ſome paſſage, or ſome advantagious Poſt.</p>
+                  <p>When the Captain has laid his de<g ref="char:EOLhyphen"/>ſign, and has all his men mounted; if, for inſtance, he intend with four hundred Horſe, to go and attack eight hundred of the Enemies Cavalry, and beat up their Quarters, he is to diſ<g ref="char:EOLhyphen"/>poſe his men in this manner. Being come near the Quarter he ſhall di<g ref="char:EOLhyphen"/>vide them into ſix Squadrons, of ſixty Troopers a piece, and ſhall di<g ref="char:EOLhyphen"/>vide the fourty remaining into two <hi>Plotons</hi> or ſmall parties of twenty a piece, under good Commanders, and
+<pb n="59" facs="tcp:65874:39"/>ſhall give to each of them one or two Trumpeters, to the end that when he ſhall ſet upon the place by which he hath propoſed to himſelf to enter the Quarter, theſe little bodies, with their Trumpets, may give the Alarm on all hands, ſome on the right, and ſome on the left, and at the places which are ſtrongeſt and beſt guarded, by that great noiſe to perſwade the Enemies that the Aſſailants are very numerous and ſtronger than they, and by that means to put them into con<g ref="char:EOLhyphen"/>fuſion, and hinder them from eſcape<g ref="char:EOLhyphen"/>ing or drawing out, that they may rally and put themſelves in defence. And therefore he ſhall prohibit theſe little Bodies to enter the Quarter, commanding the one to keep on the avenues, the others to ride always round the Quarter, with prohibition to make Priſoners of any that would come out to ſave themſelves, or to rally, but on the contrary, they are to be ordered to kill all without quarters, until they receive new Or<g ref="char:EOLhyphen"/>ders. The Captain having ſo diſpo<g ref="char:EOLhyphen"/>ſed
+<pb n="60" facs="tcp:65874:40"/>his men an hour before day in the order that we have ſaid, and having Commanded them all to put white Paper in their Hats, that they may know one another, he ſhall order the little bodies to march without make<g ref="char:EOLhyphen"/>ing of noiſe towards the flanks of the quarters, and in the mean time he ſhall march with the ſix other Squadrons, each according to their ranks, in good order, with great ſilence, and with<g ref="char:EOLhyphen"/>out Out-riders, that he may not be ſo ſoon perceived nor heard by the <hi>Vedettes;</hi> and ſo ſoon as he is diſco<g ref="char:EOLhyphen"/>vered, he ought inſtantly, without the leaſt heſitation or pauſe, make the firſt Squadron fall in and beat back the <hi>Vedettes</hi> with great dili<g ref="char:EOLhyphen"/>gence, the other five following cloſe behind, and in good order, and all (if it be poſſible) ſhould be in with the Court of Guard as ſoon as the <hi>Vedettes,</hi> that they may deſperately fall on, ſurprize and force the Court of Guard, and enter all together in<g ref="char:EOLhyphen"/>to the quarter; and when the Cap<g ref="char:EOLhyphen"/>tain is entered with his ſix Squadrons,
+<pb n="61" facs="tcp:65874:40"/>he ſhall cauſe one of them ſeize the place of arms, and in the mean while without loſing of time, ſhall cauſe the other five to advance as far as the ex<g ref="char:EOLhyphen"/>tremities of the quarter, and to all the ſides of it, with order to kill and deſtroy all they meet with, and pro<g ref="char:EOLhyphen"/>hibition to make any other Priſoners but the Commander of the quarter if they find him, that the Enemies may not mount on Horſeback and rally to put themſelves in defence; and that is to be continued ſo long till the Captain be abſolutely Maſter of the quarter, and that he ſhall find the Ene<g ref="char:EOLhyphen"/>mies no more in a condition to draw out, nor to gather together to make reſiſtance; and then he ſhall make as many of his men as he thinks conve<g ref="char:EOLhyphen"/>nient to alight, that they may enter into the Houſes, make Priſoners, take Horſes, ſet on fire, and force the Houſes that are refuſed to be opened, and where the Enemy would make reſiſtance; and in the mean, he ſhall keep a body of men moving up and down through the quarter, becauſe
+<pb n="62" facs="tcp:65874:41"/>part of the Enemy may perhaps rally together in ſome places; and all this while the other little bodies ſhall keep ſtill without the quarter, exactly obeying their orders; and by this means the Captain may render him<g ref="char:EOLhyphen"/>ſelf Maſter of the quarter, force the Enemies and bring off a conſiderable booty.</p>
+                  <p>When the Army leaves the Field to go into Winter Quarters, the King ſends as many of the Cavalry as is re<g ref="char:EOLhyphen"/>quiſite into the frontier places, there to lie in Gariſon during the Winter, by reaſon of the great advantages that ariſe therefrom; for by that means the Countrey about is preſerved, the Enemies not daring to make courſes and inroads to waſte and pillage it, without running great risk of being loſt. By that means the Cavalry have occaſion to keep themſelves in exer<g ref="char:EOLhyphen"/>ciſe, having daily opportunity of ſee<g ref="char:EOLhyphen"/>ing the Enemy, making frequent Courſes into their Countrey, and ſub<g ref="char:EOLhyphen"/>ſiſting at their coſt: ſo that the pla<g ref="char:EOLhyphen"/>ces are in far greater ſecurity againſt
+<pb n="63" facs="tcp:65874:41"/>the Enemies attempts, than if there were no Horſe in them. There is no<g ref="char:EOLhyphen"/>thing truer, than that the General of the Army during the next Campagn, finds a great deal of difference be<g ref="char:EOLhyphen"/>twixt the Horſe that have had their Winter Quarters on the Frontiers, and who have kept themſelves in War<g ref="char:EOLhyphen"/>like exerciſe, and thoſe that have ſpent the Winter in idleneſs and in Quarters remote from an Enemies Countrey. When a Captain of Horſe is in Gariſon in a frontier place, and that there are other Troops in Gari<g ref="char:EOLhyphen"/>ſon with his own, all which he com<g ref="char:EOLhyphen"/>mands, yet he cannot go out with the Cavalrie, nor part of them, without giving notice to the Governour of the place, and receiving his approbati<g ref="char:EOLhyphen"/>on; as likewiſe the Governour can<g ref="char:EOLhyphen"/>not diſpoſe of them without acquaint<g ref="char:EOLhyphen"/>ing the Captain who Commands them, and without his permiſſion. But if the Captain be in Gariſon in any Frontier Town, where there is no Governour, but that the Magi<g ref="char:EOLhyphen"/>ſtrates keep the Keys and give the
+<pb n="64" facs="tcp:65874:42"/>word (which happens but ſeldom, though it may happen;) Then may the Captain diſpoſe abſolutely of the Horſe, without acquainting the Ma<g ref="char:EOLhyphen"/>giſtrates of the Town, or asking their conſent and approbation.</p>
+               </div>
+               <div type="part">
+                  <head>Of the duties of the Horſe in a frontier place.</head>
+                  <p>A Captain being in Gariſon in a Frontier place, ought to keep conti<g ref="char:EOLhyphen"/>nually two Troopers in the Gover<g ref="char:EOLhyphen"/>nours Court of Guard, or in the Court of Guard of the place of Arms, who are to be relieved from time to time; that theſe Troopers may be always ready to give him notice ſo ſoon as they have any news of the Enemy, and of the leaſt Alarm, and to bring to him alſo the Governours Orders with all expedition. More<g ref="char:EOLhyphen"/>over, the Captain ſhall appoint daily twenty or five and twenty Troopers for a guard in the place of Arms, or near the Gate that looks to the ave<g ref="char:EOLhyphen"/>nues of the Enemies, to the end that
+<pb n="65" facs="tcp:65874:42"/>being always ready to mount on Horſeback, they may ſally out in di<g ref="char:EOLhyphen"/>ligence, in caſe the Enemy does ap<g ref="char:EOLhyphen"/>pear, or that they ſend a ſmall body as far as the Gates of the place, to make Priſoners, or to carry away bootie, or cattel; which the Ene<g ref="char:EOLhyphen"/>mies do commonly to oblige all the Horſe to ſally out upon them, and to engage them to purſue them, in hopes of great booty or rewards from the Priſoners whom they might retake, and by that means to draw them into ſome ambuſh. But if theſe Troopers of the Guard ſally out in time and with diligence, they will be ſufficient to hinder the Enemies deſign, though they ſhould even come in great num<g ref="char:EOLhyphen"/>ber, becauſe theſe twenty five ſallying out upon them with diligence under a good Leader, may amuſe and keep them in play, and give leiſure to all the Horſe that are in the place, to mount and come out; that will give time alſo to all that are abroad to re<g ref="char:EOLhyphen"/>tire and carry off their Cattel: And if the place may be ſurpriſed by Sca<g ref="char:EOLhyphen"/>lade
+<pb n="66" facs="tcp:65874:43"/>or otherways, the Captain ſhall appoint the ſame Court of Guard, or part of them, to keep all night long without the Gate that looks to the Enemy, yet ſo, as they be poſted un<g ref="char:EOLhyphen"/>der covert of the half Moon, or bar<g ref="char:EOLhyphen"/>rier, which covers the Gate, com<g ref="char:EOLhyphen"/>manding them to Scout all night to the right and left, two and two, or four and four, according as it ſhall be neceſſary, and ſucceſſively one after another, by all the avenues by which the Enemy may come to ſurpriſe the place; which will be hard to be done if theſe Troopers do their duty. It will be alſo requiſite that theſe Troop<g ref="char:EOLhyphen"/>ers, before any come out of the place, go and view the neighbourhood about the place, to a quarter of a Leagues diſtance or more, and ſee if there be no ambuſh of the Enemy, and they be not poſted in ſome place, to carry away all that is to come out or enter into the place: by ſuch care and diligence, the Horſe will ſecure the place from all kinds of ſurpriſe.</p>
+               </div>
+               <div type="part">
+                  <pb n="67" facs="tcp:65874:43"/>
+                  <head>Of the duty of a Captain being in Ga<g ref="char:EOLhyphen"/>riſon in a Frontier Town, during the Campagn.</head>
+                  <p>When it is time to begin the Cam<g ref="char:EOLhyphen"/>pagn, and when the King ſends Or<g ref="char:EOLhyphen"/>ders for the marching of the Troops to their Rendezvous, to make up the body of an Army, there is always left in the Frontier places, a ſufficient number of Horſe, to guard the Gon<g ref="char:EOLhyphen"/>voys, and thoſe that are to go and come daily from the Army, and like<g ref="char:EOLhyphen"/>wiſe to be a curb to the Enemies that are in the neighbouring Frontier Ga<g ref="char:EOLhyphen"/>riſons.</p>
+                  <p>If the Captain who remains in Ga<g ref="char:EOLhyphen"/>riſon in a Frontier place during the Campagn, perceive that the Enemy has a neighbouring Frontier Gariſon ſtronger in Horſe than his own, he is to make uſe of ambuſhes and courſes, and to keep the Enemy in fear. If in the firſt courſes that he ſhall make, he cauſe aſſemble the Troops of the Au<g ref="char:EOLhyphen"/>xiliary Cavalry of other neighbouring
+<pb n="68" facs="tcp:65874:44"/>Gariſons, that are of his party, to ſuch a competent number as may fight the Enemies Gariſon, in caſe they come out upon him, and for that end, if he ſhall aſſign to theſe Auxiliary Troops, a place of rendezvous on the rode with ſuch requiſite circumſtan<g ref="char:EOLhyphen"/>ces, as may prevent the miſtaking of the place, and ſhall join them with his men, at the hour prefixed, that ſo he may effectuate his deſign without inconvenience; If I ſay, he come out two or three times in that manner, there is great probability that after<g ref="char:EOLhyphen"/>ward he may hazard out with his Ga<g ref="char:EOLhyphen"/>riſon alone; for the Enemy's being terrified by his firſt courſes, will not eaſily come out againſt him, believing that he may have the ſame Forces with him ſtill. And if the Captain remain in Gariſon, and have notice given him by faithful ſpies, that the Ene<g ref="char:EOLhyphen"/>mies are to lay an ambuſh on ſome great rode, to fall upon the Convoys, or thoſe of his party that are going to join the Army, or are coming from thence, and that he be not comman<g ref="char:EOLhyphen"/>ded
+<pb n="69" facs="tcp:65874:44"/>out for a Guard, in that caſe he may go out in the night time and lay himſelf in ambuſh on the way by which the Enemies are to go to put themſelves in their uſual place of am<g ref="char:EOLhyphen"/>buſh. The Captain knowing the Map of the Country, may chuſe an ad<g ref="char:EOLhyphen"/>vantagious Poſt on the way, if he have good guides that know it; for in all Rodes there are places which muſt of neceſſity be paſſed over, as ſome narrow paſſages, or between two woods diſtant from one another two hundred paces, or otherways be<g ref="char:EOLhyphen"/>tween a Wood and a Village, and other ſuch like.</p>
+                  <p>The Captain ſhould ſet forth ſea<g ref="char:EOLhyphen"/>ſonably, that he may come in good time to the Poſt, where he is reſolved to expect the Enemy, and enjoin his Guides not to lead him by places in<g ref="char:EOLhyphen"/>habited, for the reaſons mentioned before; and being come to the Poſt that he intends to poſſeſs, expecting until the Enemy paſs, if it be near a Wood, he is to have it viewed be<g ref="char:EOLhyphen"/>fore he draw near; and being aſſured
+<pb n="70" facs="tcp:65874:45"/>that there is no body there, then he is to approach with his men, and ſhall place his Squadrons at a juſt diſtance from one another, along the ſide of the Wood, without entering into it, facing to the way that the Enemy is to take. He ſhall always keep his men on Horſeback in good order, and in the mean time place ſome Out-Ve<g ref="char:EOLhyphen"/>dettes, with order, that if they ſee or hear the Enemy coming, to retire without being diſcovered and with<g ref="char:EOLhyphen"/>out noiſe, to their Squadrons, have<g ref="char:EOLhyphen"/>ing firſt given him an account of what they have heard or ſeen; and with or<g ref="char:EOLhyphen"/>ders alſo on the other hand, that if they be ſurpriſed by the Enemies Scouts, they advance ſome ſteps to<g ref="char:EOLhyphen"/>wards them to view them, and having fired upon them, fly with all ſpeed, and in their flight to paſs beyond, and fourſcore or a hundred paces wide of the Ambuſcade, that the Enemies Scouts may purſue them, who will not fail to follow their Scouts cloſe, without perceiving the Ambuſcade, by reaſon of the darkneſs of the night.</p>
+                  <pb n="71" facs="tcp:65874:45"/>
+                  <p>Then the Captain may charge them in the flank as they paſs by him, or in the rear when they are paſſed, ac<g ref="char:EOLhyphen"/>cording as he ſhall judge conveni<g ref="char:EOLhyphen"/>ent.</p>
+                  <p>It is not enough to place <hi>Out-Vedet<g ref="char:EOLhyphen"/>tes,</hi> he muſt be careful likewiſe to ſend off Scouts well mounted, with order to halt now and then, and even ſome<g ref="char:EOLhyphen"/>times to alight and lay their ear to the ground, to hearken if they hear the march of men, giving them alſo the ſame order that he gave to the <hi>Vedettes,</hi> if they meet with the Ene<g ref="char:EOLhyphen"/>mies Out-riders, and to fly as the <hi>Ve<g ref="char:EOLhyphen"/>dettes,</hi> having made a ſhew of view<g ref="char:EOLhyphen"/>ing them, and having fired upon them, and to paſs by the Ambuſcade at the forementioned diſtance, that ſo they may draw the Enemy after them on the ſame rode: and if the Scouts can view the Enemy without being diſ<g ref="char:EOLhyphen"/>covered, they are to be ordered to return with all ſpeed, and without noiſe, that they may give the Captain an account of what they have ſeen and heard; and to the end there
+<pb n="72" facs="tcp:65874:46"/>happen no inconvenience, when the Scouts are upon their return, and paſs by the <hi>Vedettes,</hi> the Captain ſhall give both a night-ſignal, whereby the <hi>Vedettes</hi> may at a diſtance know that they are the Scouts who are returning back. If the Captain Poſt himſelf at the entry or coming out of ſome nar<g ref="char:EOLhyphen"/>row paſſage, he may uſe the ſame cir<g ref="char:EOLhyphen"/>cumſpection in a manner: it is of im<g ref="char:EOLhyphen"/>portance alſo, that if the Captain upon his march, or when he is come to his Poſt, hear an extraordinary noiſe in ſome Village, he detach four or ſix Troopers, whom he knows to be diſcreet, ordering them without noiſe to go round the Village if it be ſmall, to ſee if they can find any tract of the Enemy, and to hearken if they can hear them; and when they ſhall have gone round the Village, without knowing the cauſe of the noiſe that has been heard, two or three of them to alight, giving the reſt their Horſes to hold, and enter ſoftly into the Village, that they may hearken if the Enemies by chance or
+<pb n="73" facs="tcp:65874:46"/>otherways be there to refreſh them<g ref="char:EOLhyphen"/>ſelves, and in all haſte bring him back news of what they have ſeen or heard; if the Village be great, it will be enough to ſend ſome Troopers to the entry of it, ordering them to go in with the circumſpection above<g ref="char:EOLhyphen"/>ſaid.</p>
+                  <p>As to ſpies, the Captain ought to know if they be perſons of wit, good judgment, and faithful, for other<g ref="char:EOLhyphen"/>ways he ought not to truſt in them.</p>
+                  <p>There is nothing of greater impor<g ref="char:EOLhyphen"/>tance in an Army, than to be able to dive into the deſigns of the Enemy, and to know their Poſts, their go<g ref="char:EOLhyphen"/>ings and comings, for by that means many troubleſome rancounters are avoided, many ſurpriſes both made and prevented, and likewiſe many ways found to do them prejudice. For that effect, it is neceſſary to have good and faithful ſpies, whom the Captain ſhould gain by money and rewards, that by intereſt he may en<g ref="char:EOLhyphen"/>gage and win them to expoſe them<g ref="char:EOLhyphen"/>ſelves to all kind of dangers, and do
+<pb n="74" facs="tcp:65874:47"/>what ſeems even impoſſible, to learn the enterpriſes of the Enemies, and without delay to come and give no<g ref="char:EOLhyphen"/>tice of all. The Captain ought to chuſe the moſt dextrous of thoſe whom he knows to have the beſt con<g ref="char:EOLhyphen"/>duct and moſt of fidelity and judg<g ref="char:EOLhyphen"/>ment to employ them as good and faithful ſpies, who dextrouſly pre<g ref="char:EOLhyphen"/>tending to be weary of his ſervice, ſhould go to the Enemy, and ſo or<g ref="char:EOLhyphen"/>der matters, that they might be liſted amongſt the Horſe, becauſe, that be<g ref="char:EOLhyphen"/>ing made Troopers, they may have better opportunities of giving intel<g ref="char:EOLhyphen"/>ligence, whether they be in the Field or Gariſon: But it is likewiſe neceſ<g ref="char:EOLhyphen"/>ſary to have ſome in divers Regi<g ref="char:EOLhyphen"/>ments, and in divers of the Enemies Gariſons, who are not acquainted to<g ref="char:EOLhyphen"/>gether, with whom the Captain ſhould be in terms, and condeſcend on the place whither they ſhould car<g ref="char:EOLhyphen"/>ry their Letters of intelligence, as to leave them at the root of ſome tree, or at a certain croſs, or under ſome great ſtone, or other places that are
+<pb n="75" facs="tcp:65874:47"/>remarkable and eaſy to be found. Theſe Spies ſhould be obliged them<g ref="char:EOLhyphen"/>ſelves to bring the intelligence of great conſequence, as the Enemies deſigns of ſurpriſing ſome place, or forcing a Quarter, and other like en<g ref="char:EOLhyphen"/>terpriſes. The Captain may likewiſe make uſe of ſome Souldier diſguiſed into the habit of a Peaſant, or into ſome other faſhion, who ſpeaking the language of the Countrey or of the Enemies, may under ſome pretext go to their Camp, or Quarter, to view their Poſts, with all the circumſtan<g ref="char:EOLhyphen"/>ces, and to get information of the actions of the Enemy, that he may be able to give notice of the ſame. He may likewiſe employ Peaſants, be<g ref="char:EOLhyphen"/>cauſe they are free to go every where, being but little ſuſpected, and leſs ob<g ref="char:EOLhyphen"/>ſerved by the Enemies, eſpecially in conquered Countreys, where they have the liberty to enter into the Ene<g ref="char:EOLhyphen"/>mies Camp, and all their places, and to travel by night; ſo that they may eaſily bring news, and give good in<g ref="char:EOLhyphen"/>telligence; but above all things he
+<pb n="76" facs="tcp:65874:48"/>ought to have Spies, who inſinuate themſelves, or have acceſs into the quarters of general perſons, and of the Governours of places, that he may more eaſily have thereby knowledge of the Enemies deſigns. He may alſo make uſe of double Spies, but they muſt be ſuch as are very affectionate and faithful to him, who that they may gain credit, and obtain acceſs to the Quarters of general perſons, may give them ſometimes true intelligence of the marches of thoſe of the con<g ref="char:EOLhyphen"/>trary party, but only in matters of ſmall conſequence, and at ſuch a time as the Enemy can make no advantage of them. The Captain ought alſo to be upon his Guard againſt the double Spies of the Enemy: And therefore, if he intend to march out againſt his Enemies, upon the report that hath been made to him, and upon the in<g ref="char:EOLhyphen"/>telligence that ſome Spies, of whom he is not aſſured, hath brought him, he ought to detain the Spies under pretence of ſhewing them kindneſs and recompenſing them; and in the
+<pb n="77" facs="tcp:65874:48"/>mean time he ſhall give order to his ſervants to treat theſe Spies kindly, but withal to have a care that they make not their eſcape, nevertheleſs the Spies muſt not have occaſion gi<g ref="char:EOLhyphen"/>ven them to think they are diſtruſted, to the end that if their intelligence be true, he may largely recompenſe them at his return, and ſo oblige them to perſiſt in giving him faithful advices: and theſe Spies being well rewarded, will not only reſt ſatisfied, but will alſo for the future expoſe themſelves to every thing; being al<g ref="char:EOLhyphen"/>lured by the profit, which may like<g ref="char:EOLhyphen"/>wiſe draw in others upon hopes of the like rewards. If the Captain be advertiſed by Spies, of whoſe fidelity he is not fully aſſured, that the Ene<g ref="char:EOLhyphen"/>mies are abroad, or that he hath ſome fair opportunity offered him, He will do well before he march out of his Gariſon or Quarter, to ſend out three or four <hi>Pietons</hi> or Footmen towards the quarter and place deſigned to him by the Spies, who knowing the Coun<g ref="char:EOLhyphen"/>trey, ſhall go an hour before him, to
+<pb n="78" facs="tcp:65874:49"/>ſome narrow paſs, or ſome certain place that he ſhall tell them, wherein he may ſuſpect that the Enemies wait for him in ambuſh; leſt that the Spies may have given him falſe intelligence. This circumſpection is eſpecially to be taken in a cloſe and covered Coun<g ref="char:EOLhyphen"/>try, wherein he may be ſurpriſed be<g ref="char:EOLhyphen"/>fore he can diſcover the Enemies at a diſtance, and in ſuch places alſo where the ways are narrow, and where his men cannot march but by Files, be<g ref="char:EOLhyphen"/>cauſe in ſuch a caſe if the <hi>Pietons</hi> have wit they cannot be loſt, nor be taken by the Enemy; and the Captain ſhall appoint them a place where they may meet him, to inform him of what they have learnt. When he is upon a march againſt the Enemy, he ought likewiſe to Command his Troops to have a care of their Arms, and to keep them in a condition of doing ſervice.</p>
+                  <p>Theſe are the principal Maximes that a gallant Captain ought to ob<g ref="char:EOLhyphen"/>ſerve in his charge of Horſe; let us now proceed to the duties of the Serjeant Major.</p>
+               </div>
+            </div>
+            <div n="5" type="chapter">
+               <pb n="79" facs="tcp:65874:49"/>
+               <head>CHAP. V. <hi>Of the charge of a Serjeant Major.</hi>
+               </head>
+               <p>THE charge of Serjeant-Major ought to be poſſeſſed by an old Officer of Foot, a man of middle age, of virtue and good example, and moſt affectionate to the ſervice of the King: conſummated in the experience of War, and eſpecially in the conduct of infantry. The Major is a Demi-Governour; and though of himſelf he hath no Command over the Troops, yet it is his duty to watch over all that concerns his Majeſties Intereſts. He carries about the Go<g ref="char:EOLhyphen"/>vernours Orders, and all the Officers are obliged to receive and obey them, as if they had been given by the Go<g ref="char:EOLhyphen"/>vernour himſelf; for he is as it were the Kings Proctor General in the mat<g ref="char:EOLhyphen"/>ter of War; and in that, his Office is gentile and of importance, but of
+<pb n="80" facs="tcp:65874:50"/>great fatigue. If he be Major of a Town or Citadel, he ought every Morning to go to the Governours Houſe at the hour appointed for opening of the Gates.</p>
+               <p>The Aid-Major if any be, and the Captain of the Gates, ſhould likewiſe go at the ſame hour to the Governours Houſe; and the hour for opening the Gates being come, if the Governour call not the Major to ſpeak with him, the Major ſhould let him know that he waits for the Keys that he may go open the Gates. The Governour, or in his abſence the Commander, do commonly call the Major into their Chamber, where they diſcourſe of the matters which the Major has obſerved the night before upon his round, which he ought to relate truly to the Governour, without adding or di<g ref="char:EOLhyphen"/>miniſhing any thing. Having made his report, he is to give the Gover<g ref="char:EOLhyphen"/>nour the Roll, containing the num<g ref="char:EOLhyphen"/>ber of Officers, <hi>Eſcouades,</hi> and Soul<g ref="char:EOLhyphen"/>diers of each <hi>Eſcouade,</hi> who the day before mounted the Guard on the
+<pb n="81" facs="tcp:65874:50"/>place of Arms; underneath that Roll the Major ought to write down the extract of the ſame <hi>Eſcouades,</hi> the number of Souldiers of each <hi>Eſcou<g ref="char:EOLhyphen"/>ade,</hi> and if he found the Officers at their Poſts and Courts of Guard, when he went his round; which extract and Roll, the Major ought to give to the Governour, to the end that he may know if the ſame number of Officers and Souldiers who mounted the Guard, have continued on the Ram<g ref="char:EOLhyphen"/>part, and in the Court of Guard that fell to them by lot. Having given the extract of the Rampart and Pa<g ref="char:EOLhyphen"/>rade, he is to ask the Governour if there be any new Commands to be given at the Gates, beſides the uſual. If he ſay there are none, the Major is to take the Keys, and deliver them to the Captain of the Gates, who gives them to his ſervant; afterward they go to the Gate, where being ar<g ref="char:EOLhyphen"/>rived, the Major asks the Officer of the Guards if there be any news. If the Officer tell him that there is no<g ref="char:EOLhyphen"/>thing that may hinder the opening of
+<pb n="82" facs="tcp:65874:51"/>the Gate, he ſhall bid the Officer draw down the next <hi>Eſcouades</hi> that are up<g ref="char:EOLhyphen"/>on the Rampart, and thoſe of the Court of Guard who come common<g ref="char:EOLhyphen"/>ly to the opening of it; and whilſt the Serjeants or Corporals come down from the Rampart, and that they draw up their men in <hi>Haye,</hi> on the right and left, in the ſtreet, as far as the Gate, the Major ought to go up<g ref="char:EOLhyphen"/>on the Rampart, to ſee if any Coun<g ref="char:EOLhyphen"/>trey people be come to the Gate. If there be any, he ought to ask them from whence they come, and what Villages they belong to, and endea<g ref="char:EOLhyphen"/>vour to find out if they ſpeak truth. In a word, if the Major ſee nothing that may juſtly delay the opening of the Gate, he is to come down from the Rampart, and ſeeing all the Soul<g ref="char:EOLhyphen"/>diers in Arms, with lighted matches, and the Officer at their head, he is to Command the Porter to open the Gates, which he is inſtantly to open; and as the leaves of the Gate are opening, he is to make the Guard draw out in File as far as the further<g ref="char:EOLhyphen"/>moſt
+<pb n="83" facs="tcp:65874:51"/>draw-Bridge, preſenting their Arms. If the Officer of the Guard be not at the Court of Guard, the Ma<g ref="char:EOLhyphen"/>jor is to cauſe him to be ſought for, for to open the Gate without him, is as great a fault in the Major, as in the Officer for not being on his duty. This being done before the Guard lay down their Arms, he is to make all the people and Cattel that are in the ſtreet march out, and when all are gone out, he ſhall cauſe thoſe that are without come in one after ano<g ref="char:EOLhyphen"/>ther; and if there be any Carts or Waggons laden with Forage, he is to Command them to be ſearch'd, though he have but little or no ſuſpicion of them. When the Governour, with the Keys, gives the Major any new Order, and it be ſomething extraor<g ref="char:EOLhyphen"/>dinary, and not put in practice the day before, the Major is to acquaint the Officer of the Guard with it; but if he have received no order, he is to bid the Officer Command his Soul<g ref="char:EOLhyphen"/>diers to lay down their Arms, and tell him that he has no new Orders,
+<pb n="84" facs="tcp:65874:52"/>and that there is no more to be done but what is uſual, which he is not obliged to inform him of; becauſe that the Officer when he enters into his Poſt, and relieves the Officer that comes off the Guard, ought to ask him, and make him tell him plainly all things that have been told him by the Officer whom he laſt relieved, that he may punctually obey them. The Major being returned with the Cap<g ref="char:EOLhyphen"/>tain of the Gates, who cauſes the Keys to be carried to the Governours Houſe, he is to acquaint the Gover<g ref="char:EOLhyphen"/>nour with all that is done, and with what he hath learnt at the opening of the Gate.</p>
+               <p>When in one place there are ſeve<g ref="char:EOLhyphen"/>ral Gates which are opened the ſame day, the Major ſhall ſend his Aid to open the other, or the Captain of the Gates if there be no Aid-Major, and give him the ſame Orders that he hath received from the Governour: all the Gates being opened, the Major has the reſt of the day for himſelf; until that the <hi>Eſcouades</hi> and all the Com<g ref="char:EOLhyphen"/>panies
+<pb n="85" facs="tcp:65874:52"/>who are to mount the Guard, be come together on the place of Arms, whither the Major with his Aids ſhould go; and being come there, he is to draw aſide on the place of Arms, and being ſate down there with a Drum before him, and having his Roll of the Guards which mount day by day, and his Counters or lots in a purſe, he is to ſend his Aid to the head of the Guard, to bid the Ser<g ref="char:EOLhyphen"/>jeants and Corporals come and draw their Poſts. He ſhould have already written down in his Regiſter of Guards, the day of the week, and month, &amp; underneath he ſhould have placed the names of all the Courts of Guard, and the number of the <hi>Eſcou<g ref="char:EOLhyphen"/>ades</hi> that he uſes to ſend to every one of them; and at the ſame time that the Serjeants and Corporals draw, the Major writes the name of the Com<g ref="char:EOLhyphen"/>pany to which the <hi>Eſcouade</hi> belongs; for inſtance, if it has been the cuſtom to ſend ſix <hi>Eſcouades</hi> to the Gate of <hi>Paris,</hi> and eight to the Gate of St. <hi>Anthony,</hi> he puts ſix Counters or
+<pb n="86" facs="tcp:65874:53"/>Lots into a Hat, on which he writes, Gate of <hi>Paris;</hi> and eight more on which he writes, Gate of St. <hi>Antho<g ref="char:EOLhyphen"/>ny;</hi> and ſo for other Gates and Poſts, obſerving to put in neither fewer nor more Lots, than there are Poſts to be ſupplied, and <hi>Eſcouades</hi> to be ſent, becauſe otherways it would breed confuſion. The Poſt being drawn, and all the Guards in Arms, the Files and Ranks are to be put in good order, each according to their rank, to which the Aid-Majors ſhould take heed, as like<g ref="char:EOLhyphen"/>wiſe the Majors of the Regiments. This being done the Major comes to the head of the Batallion to meet the Officers that are to mount the Guard; and if there be two Captains-Poſts, he preſents to them two Lots whereon are written the names of the two Poſts without being ſeen by them, or otherways he puts them into a Hat, and prays them to draw. He does the ſame in reſpect of Lieutenants, and of all Poſts whither equal Officers are to go. But if they be different Poſts as that of a Lieutenant and an En<g ref="char:EOLhyphen"/>ſeign,
+<pb n="87" facs="tcp:65874:53"/>or of a Serjeant and Corporal, he is not to make them draw, becauſe the Superiour goes always to the ſame Poſt to which his equals are accuſtom<g ref="char:EOLhyphen"/>ed to go. When the Major has taken a turn or two about the Batallion, gone in amongſt them, conſidered the Companies, and if the Musketeers have their Bandeliers provided of Powder, Bullets and Match, (for it is their duty to have the match lighted, and Powder for twelve or fifteen times firing) then he makes the Guard File off, and ſends every one to his Poſt, to relieve the Guards that mounted there the day before; but as the Of<g ref="char:EOLhyphen"/>ficer, Serjeant or Corporal, with their <hi>Eſcouades</hi> paſs by him, he gives to each of them the Lots of the rounds which they are to go, and recommends to them the care of going the ſaid rounds at the hours marked on the aforeſaid Lots or Tickets.</p>
+               <p>If the Governour be upon the place of Arms to ſee the Guard File off, as he ought not to fail to be, and where his time is not ill employed, the Ma<g ref="char:EOLhyphen"/>jor
+<pb n="88" facs="tcp:65874:54"/>addreſſes himſelf to the Gover<g ref="char:EOLhyphen"/>nour when all are drawn off, and ſoftly and with reſpect asks him the watch-word. If the Governour carry himſelf diffidently and prudently, the Major has no cauſe to complain; for indeed the Majors ask it not, if they know it not to be his will.</p>
+               <p>When it is time to ſhut the Gates, the Major goes to the Governours Houſe for the Keys, whither the Aid-Majors and Captains of the Gates ſhould come; and if there be Guards on the Out-works, as happens often, eſpecially on the Half-Moons which are before the Gates to cover them, the Major is to have the Field-word, that he may give it to the Comman<g ref="char:EOLhyphen"/>der of the half Moon, before he ſhut the Gate, recommending him to keep good Guard, and to ſend out in the Morning ſome to ſearch and make diſcovery in the ruined Houſes and hollow ways, and in the Houſes of the Suburbs if there be any near the Gate. Afterward he puts all the Guard in Arms; and when the Drum hath
+<pb n="89" facs="tcp:65874:54"/>beaten the Tattoe, he cauſes the Bar<g ref="char:EOLhyphen"/>riers to be ſhut, and then the leaves of the Gates, cauſes the Bridges to be drawn, and at the ſame makes the Souldiers face about to the right, and cauſes the Guard to file up in the ſtreet that leads to the Gate; and as the Porter turns the Key in the lock, the Major bids the Corporals who are the File-leaders feel the bolt, to ſee if it be faſt: the ſame he bids the Ser<g ref="char:EOLhyphen"/>jeants do; and the Captain of the Gates touches it likewiſe, after him the Major, and laſt of all the Captain of the Guard, who is more concerned to do it than any, becauſe he muſt anſwer for the Poſt.</p>
+               <p>The Gates and Barriers being ſhut, the Major goes to the Governours Houſe, and tells him in preſence of all, that the Gate is ſhut, to the end it may be known that he has done his duty, and hath obſerved the uſual hour, and no unſeaſonable time. The Major ought to be exact in opening and ſhutting the Gates at the uſual hours; for on theſe two occaſions,
+<pb n="90" facs="tcp:65874:55"/>which are the chief of his duty, the greateſt danger is to be run. The reſt of the night he has two things to do; the one is to be at the Circle, and give the word to the Serjeants, which is to be done when the Gate is ſhut; the other, to go at what hour he plea<g ref="char:EOLhyphen"/>ſes, and make his Round-Major on the Rampart, and viſit all the Courts of Guard, not only on the Rampart, but alſo all thoſe of the Town. When he goes his Round-Major, he ought to have a Lantern carried before him, and demand the word from all the Courts of Guard, and enter<g ref="char:EOLhyphen"/>ing them, cauſe the Arms to be view<g ref="char:EOLhyphen"/>ed. He ought to reckon the <hi>Eſcou<g ref="char:EOLhyphen"/>ades</hi> and the men, to ſee if all that mounted the Guard be there, ſetting it down in his Table-Book; and when he is come back to his lodg<g ref="char:EOLhyphen"/>ings, or next day, he is to compare his Table-Book, with the extract that he made on the place, when the Guard drew off, and thereby he knows what <hi>Eſcouades</hi> have diſmiſſed their Soul<g ref="char:EOLhyphen"/>diers, that is to ſay, who have moun<g ref="char:EOLhyphen"/>ted
+<pb n="91" facs="tcp:65874:55"/>the Parade, and have not lain in the Court of Guard. He is to ac<g ref="char:EOLhyphen"/>quaint the Governour with that, it being a matter of importance to the ſervice; and it is to be ſeen by the extract of his round, whereof he ſhould give the Governour a Copy written with his own hand: and in ſo much that theſe kinds of rounds are a kind of muſter, the Major makes them not every night with the ſame exactneſs; he paſſes only before the Court of Guard, to ſee if the word be right. If on his round he hath learnt any thing of importance, he ought to go and acquaint the Gover<g ref="char:EOLhyphen"/>nour with it at what hour of the night ſoever: and if the Governour Com<g ref="char:EOLhyphen"/>mand the Major to go open the Gate, and tell him the reaſon wherefore, he ought to take ſpecial notice of the number of Horſe or Foot that he tells him are to go out or come in. When the Major has known the Governours Orders, he is to take the Keys and give them to the Captain of the Gates who has been advertiſed, and both
+<pb n="92" facs="tcp:65874:56"/>together are to go to the Gate, where being come, the Major is to ſpeak to the Captain of the Guard, ſhew him the Keys, and tell him that the Gate is to be opened, and that he ſhould bring down his <hi>Eſcouades,</hi> in the ſame manner as we have deſcribed for open<g ref="char:EOLhyphen"/>ing them in the Morning; and if it be a Convoy that is to come in, no<g ref="char:EOLhyphen"/>thing is to be opened till all be come to the Gate, or that all thoſe that are to go out be come near the Gate on the inſide, becauſe the Gate of a Gariſon muſt not ſtand open in the night time, but as ſhort time as poſſi<g ref="char:EOLhyphen"/>bly may be.</p>
+               <p>If there be a Guard on the half Moon, the Major ought to make the Commander draw near on the <hi>Pont dormant,</hi> or ſleeping Bridge, of whom he ſhall inquire who they are that are come, if they be Horſe or Foot, and if there be any Carriages with them, and having received anſwer of the Commander of the half Moon, the Major is to tell him, to bid him that Commands the Convoy draw near,
+<pb n="93" facs="tcp:65874:56"/>whom he is to ask what Troops he belongs to, if all his men be come up, and what number of Horſe or Foot he hath with him. If the Commander of the Convoy ſhould tell him mat<g ref="char:EOLhyphen"/>ters far wide of what the Governour told him when he gave him the Keys, either as to the quantity or quality of the Convoy; The Major is not to open without ſending to inform the Governour of the difference of the matters. Afterwards, if the Go<g ref="char:EOLhyphen"/>vernour ſend him word to open, he is firſt to mount with the Captain of the Gates, to view the <hi>Orgues</hi> and <hi>Herſes</hi> which are hung and faſtened over the Gates, to hinder ſurpriſes; and finding them to be in good con<g ref="char:EOLhyphen"/>dition, he ſhall cauſe open the Bar<g ref="char:EOLhyphen"/>rier which is within the Town, and the firſt leaves.</p>
+               <p>If they open to let out ſome pri<g ref="char:EOLhyphen"/>vate perſon, the Barrier is to be ſhut, ſo ſoon as he that is to go out is got within, and come to the Draw-Bridge, which is not haſtily to be let down; for the Gate of a Town cannot be
+<pb n="94" facs="tcp:65874:57"/>too ſlowly opened in the night time, nor too quickly ſhut: when there are two Draw-bridges; this is to be drawn up, ſo ſoon as he who is to go out, is paſſed over it; and the Major or Captain of the Gates is to go and cauſe the other to be let down, which is to be drawn up preſently after. If it be a party of Horſe, the <hi>Tape cut</hi> is not to be drawn up, but they are to march out or come in, by the lit<g ref="char:EOLhyphen"/>tle Gate, at the ſide of the <hi>Tape-cut.</hi> If it be to let any Convoy come in; all the Bridges muſt be let down, and all the Gates and Barriers opened, and all the <hi>Eſcouades</hi> that are in the Court of Guard, and on the Rampart, are to be drawn out to the Gate, except thoſe who are remoteſt from the Gate which is to be opened. The Major, Captain of the Gates, and the Por<g ref="char:EOLhyphen"/>ters, on ſuch occaſions ought each of them to have great Lanterns, for they cannot in ſuch rancounters ſee too clearly. When all things are well diſpoſed, and all ſecurity taken for the entry of the Convoy, the Ma<g ref="char:EOLhyphen"/>jor
+<pb n="95" facs="tcp:65874:57"/>and his Aids ſhall ſtand by the Bridges, and hinder any ſtop to be made thereon, making the Convoy file up into two files, if they be Foot, and if they be Horſe, ſingly one after another; if they be Carriages, in the ſame manner; and as faſt as they en<g ref="char:EOLhyphen"/>ter, the Major, his Aids, and even the Captain of the Gates, ought to count the Troopers, and Foot, and the number of Waggons that enter; and ſo ſoon as the Convoy is entered, the Gate is to be ſhut, though there may be ſome Trooper or Foot Soul<g ref="char:EOLhyphen"/>dier behind; and immediately after the Gate is ſhut, the Major ſhould ſend back the <hi>Eſcouades</hi> to their ſe<g ref="char:EOLhyphen"/>veral Courts of Guard, and he him<g ref="char:EOLhyphen"/>ſelf at the ſame time with his Aids, and the Captain of the Gates, ſhould carry the Keys to the Governour, and give him an account of all. If the Ma<g ref="char:EOLhyphen"/>jor or his Aids, cauſe the Gates be opened by day or night, they ſhould never ſuffer the Keyes to be carried into any private Houſe. The Major ought to have an exact account of
+<pb n="96" facs="tcp:65874:58"/>the Poſts of honour, and the Poſts of fatigue, though all of them ought to be taken for Poſts of honour.</p>
+               <p>If the Major allow ſome Mornings in fair weather to the younger Bro<g ref="char:EOLhyphen"/>thers who are in the Gariſon, that they may be trained in their exerci<g ref="char:EOLhyphen"/>ſes, he will procure friends, and be eſteemed by theſe young Gentlemen. The Regiment-Majors who are in Gariſon commonly take that care up<g ref="char:EOLhyphen"/>on them; yet they ought not to do it, without acquainting the Major of the place; becauſe no body ſhould take Arms without his knowledge; and beſides, the functions of Majors ceaſe when they enter into Gariſon. They may very well act ſeverally in their Regiments, but they muſt re<g ref="char:EOLhyphen"/>ceive the Orders which they execute in their Regiments from the Major of the place, otherways the order of War would be perverted; and there<g ref="char:EOLhyphen"/>fore there are never more than one Governour, one Kings-Lieutenant, and one ſingle Major in a place. And that I may continue to deſcribe his fun<g ref="char:EOLhyphen"/>ction,
+<pb n="97" facs="tcp:65874:58"/>I ſhall tell you, that a Major muſt be moſt affectionate to the ſer<g ref="char:EOLhyphen"/>vice of the King, faithful, vigilant and laborious, a man of great Cou<g ref="char:EOLhyphen"/>rage, and clear and ſound Judgment; he ought to be very impartial in the diſtribution of ſervice without any compliance, he is to be the Organ of the Governour, as he of a Regi<g ref="char:EOLhyphen"/>ment, is of the Colonel; he alone, or his Aid, ought to carry the Or<g ref="char:EOLhyphen"/>ders, cauſe all Proclamations to be made, and eſtabliſh all that concerns Military Diſcipline for the Authority of his Prince or Governour; take an account of the Poſts that are to be guarded, proportion Guards to them according to the ſtrength of the Ga<g ref="char:EOLhyphen"/>riſon, ſhew them to the Governour, and take his Orders concerning the manner how he ought to make the diſtribution of them, and having re<g ref="char:EOLhyphen"/>ceived them, cauſe them to be pun<g ref="char:EOLhyphen"/>ctually obeyed. In time of War, if the place may be attacked, and that there is ground of fear that the Ga<g ref="char:EOLhyphen"/>riſon is not ſtrong enough for de<g ref="char:EOLhyphen"/>fence,
+<pb n="98" facs="tcp:65874:59"/>or that the Fortifications, Ar<g ref="char:EOLhyphen"/>tillery, Ammunition and Proviſions, are not in condition to reſiſt the Ene<g ref="char:EOLhyphen"/>mies Forces, he is to acquaint the Governour therewith, and at the ſame time write to a Secretary of State, who has the concerns of War for his charge, that he may acquaint the King with the ſame. If the place be beſieged, he ought to take meaſures for its defence proportionably to the ſtrength of the Gariſon and Inhabi<g ref="char:EOLhyphen"/>tants, knowing within a little the number of Souldiers that may defend it; and endeavour by all means to eaſe the Governour of ſome part of the cares wherewith he is over-bur<g ref="char:EOLhyphen"/>dened at ſuch a time; and if they be approved by him, he is to take his Orders to cauſe his will be executed therein. This is the whole duty of a well accompliſhed Major: ſo alſo ſhould all Officers upon the account of honour and duty, acquit themſelves ſtrenuouſly of their charges, that the King may be the better ſerved. There is nothing of greater Glory to a man,
+<pb n="99" facs="tcp:65874:59"/>than to command men; and there<g ref="char:EOLhyphen"/>fore Officers ought to know their fun<g ref="char:EOLhyphen"/>ctions well, and command their infe<g ref="char:EOLhyphen"/>riours to do their duty; that being ſo, his Majeſty will be far better ſer<g ref="char:EOLhyphen"/>ved, and take pleaſure to ſee ſo many brave Officers, and ſo many Souldiers, ſubmitted to his power, and ready to die for his ſervice, the glory of God, and the welfare of the State.</p>
+            </div>
+            <div n="6" type="chapter">
+               <head>CHAP. VI. <hi>Of the March of an Army.</hi>
+               </head>
+               <p>SQuadrons of Horſe as we have ſaid in our firſt part, are commonly compoſed of eighty, an hundred, or an hundred and twenty Troopers; it is very rare when they exceed two hundred.</p>
+               <p>Batallions are made as ſtrong as may be. The Pikes are always placed in the middle, and the Musketeers on the Wings. The Army is divided into
+<pb n="100" facs="tcp:65874:60"/>three bodies, which are ranked in three lines; the firſt is called the Van<g ref="char:EOLhyphen"/>guard; the ſecond the main body; and the third if it be of almoſt equal force, is called the Rear-guard; but when weaker it is called the body of reſerve. The middle of theſe three lines conſiſts of Foot; the Cavalrie is on the Wings of each of the ſame lines; and ſometimes the Squadrons are placed in the intervals betwixt the Batallions (as we have elſewhere diſcourſed) to the end that when the Foot have fired, and begin to put the Enemy in diſorder, the Horſe may more eaſily advance and charge through theſe intervals, to break in<g ref="char:EOLhyphen"/>tirely thoſe who already begin to be in diſorder; yea, and by that inter<g ref="char:EOLhyphen"/>lining, if the infantry who have fired have ſuffered any check, the Cavalrie which is at hand may maintain them, and give them time to rally.</p>
+               <p>The moſt honourable Poſt of all is the Van-guard; next the main bo<g ref="char:EOLhyphen"/>dy claims the honour, but we muſt except the Regiment of Guards, and
+<pb n="101" facs="tcp:65874:60"/>the Kings Gend'arms, becauſe both are in ſervice, and are always put in the ſecond line.</p>
+               <p>There is in every line alſo the ho<g ref="char:EOLhyphen"/>nourable Poſt: the old Bodies, ac<g ref="char:EOLhyphen"/>cording to the Order of their Senio<g ref="char:EOLhyphen"/>rity, have always the right Wing, and the ſecond in ſeniority is placed on the left, and ſo from rank to rank, ſo that the middle of the line is the low<g ref="char:EOLhyphen"/>eſt Poſt in honour. If we conſider the number of men, who (as we have ſaid) compoſe the Batallions which at moſt conſiſt of a thouſand men apiece; and the number of Troopers that make up a Squadron, which is at moſt of two hundred; it is evi<g ref="char:EOLhyphen"/>dent, that though there be but very few Cavalrie in an Army, yet the number of Squadrons is double, yea and triple the number of Batallions: ſo that for every Batallion, in the middle of each of the three lines, there will be two or three Squadrons in the Wings of the ſame line.</p>
+               <p>When an Army is drawn up in Ba<g ref="char:EOLhyphen"/>tallia, they obſerve five foot of in<g ref="char:EOLhyphen"/>terval
+<pb n="102" facs="tcp:65874:61"/>interval between each Trooper, and three foot between each foot man, which is for the front or diſtance of one file from another; but when they come to the ſhock, the files cloſe, and the front is leſſened almoſt one half. There are left about an hundred pa<g ref="char:EOLhyphen"/>ces between the firſt line and the ſe<g ref="char:EOLhyphen"/>cond, and two hundred between the ſecond and third; that the Troops if they be broken may have ground to rally on; and if leſs ground were allotted them, it would happen that the Troops of one line giving ground would break the Troops of the ſe<g ref="char:EOLhyphen"/>cond, as being too near them. In every line, the Batallions are diſtant from Batallions, and the Squadrons from Squadrons to a diſtance almoſt equal to their front: ſo that the front of a Squadron extending about two or three hundred foot, the interval between two Squadrons ſhall be two or three hundered foot more or leſs; and the front of a Batallion being be<g ref="char:EOLhyphen"/>tween an hundred and ſeventy, or a hundred and eighty foot, the inter<g ref="char:EOLhyphen"/>val
+<pb n="103" facs="tcp:65874:61"/>between two Batallions ſhall be within a little equal to their front. Theſe intervals are left, becauſe the Squadrons and Batallions of the ſe<g ref="char:EOLhyphen"/>cond line are placed juſt behind the intervals of the firſt, and in the ſame manner the Bodies of the Rear-guard are placed juſt behind the intervals that are between the bodies of the main Battel, to the end that by theſe intervals both may more eaſily ad<g ref="char:EOLhyphen"/>vance againſt the Enemy; and that if the firſt line be broken, inſtead of falling back upon the Troops of the ſecond, (as muſt needs happen if the bodies of all the lines made but files) it might rally behind its own ground, and leave the intervals free for the ſe<g ref="char:EOLhyphen"/>cond line, to advance and maintain the other that gave ground.</p>
+               <p>If the Army on a march, have the Enemy on head, and that they march in an open and razed Country, they keep together in a poſture of fight<g ref="char:EOLhyphen"/>ing. The Cavalrie are placed upon the Wings; but the Gend'arms come behind the ſecond line; the Cannon
+<pb n="104" facs="tcp:65874:62"/>march at the head of the firſt line: next comes the ſecond backed by the Gend'arms; on the ſame front march the proviſions, baggage, and equip<g ref="char:EOLhyphen"/>age of Artillery; and for the ſecurity of theſe equipages the Rear-guard comes after: but if they muſt come to a fight, the Rear-guard advances on head of them, and leaves only two or three Squadrons on the rear of the baggage and proviſions. When the Enemy is on head of an Army in a cloſe Country that is divided by croſs ways, by Lanes, and Ditches covered with wood, or beſet with Hedges, the front of each of the three lines muſt of neceſſity be contracted, and one body muſt file off after another. In ſuch a Country, the Horſe and great Cannon are but of little uſe, the Ca<g ref="char:EOLhyphen"/>valrie being unable to fight there, and having frequently need of ſuccour. Commonly the march begins by one or two Squadrons a Front, then a Ba<g ref="char:EOLhyphen"/>tallion or two a Front, and ſo ſucceſ<g ref="char:EOLhyphen"/>ſively according as the paſſages are more or leſs open. The Cannon, Pro<g ref="char:EOLhyphen"/>viſions
+<pb n="105" facs="tcp:65874:62"/>and Baggage march only after the Troops of the ſecond line; for the Cannon would be ſo far from do<g ref="char:EOLhyphen"/>ing any good effect if it were on the Front, that it would hinder the march of the Troops, in caſe the Enemy were on head, and would attack the firſt line. In ſuch kind of marches there are many skirmiſhing parties mingled amongſt the Baggage, to ſe<g ref="char:EOLhyphen"/>cure them againſt the Enemy, who might cut them off by the advantage of the Woods. The infantry hath a particular order for the march of the Baggages; for the Baggage of the oldeſt Regiments march firſt, though theſe old Regiments were even in the third line. When there are two or three narrow Paſſes, the Army march<g ref="char:EOLhyphen"/>es in two or three Pillars; to march in Pillars is, when the lines inſtead of making a large Front, make a long File: ſo to march in three Pillars, is to march in three long Files.</p>
+               <p>If an Army march by Pillars, one half of the Cannon is placed in the intervals of the Troops of the Van<g ref="char:EOLhyphen"/>guard,
+<pb n="106" facs="tcp:65874:63"/>and the other half in the in<g ref="char:EOLhyphen"/>tervals of the main body. There are but very few put in the Pillar of the Rear-guard, becauſe it is ſuppoſed to be weaker than the other Pillars, and leſs able to defend the Artillery. When the Enemy is on the flank, in a large and open Country, the Army marches likewiſe in three Pillars: the firſt Pillar that ſides to the Enemy, ſhall be compoſed of the Regiments of the Van-guard; the Cannon ſhall march between that firſt Pillar and the Enemy: the ſecond Pillar ſhall be made up of the Troops of the main Battel; and the third of the bo<g ref="char:EOLhyphen"/>dy of the Rear-guard: ſo that when the Enemy appears, making the three Pillars turn to the right or left, ac<g ref="char:EOLhyphen"/>cording as the Enemy ſhall appear to the right or left, all the Army by that motion will be in order of Battallia, and the Cannon on the Front.</p>
+               <div type="part">
+                  <pb n="107" facs="tcp:65874:63"/>
+                  <head>Of a Council of War.</head>
+                  <p>It is to be ſuppoſed that he who Commands an Army, is a man endow<g ref="char:EOLhyphen"/>ed with all the good qualities that are neceſſary to the General of an Army. The firſt thing that a General ſhould do when he has received his Orders from the King, written and counter<g ref="char:EOLhyphen"/>ſigned by his Secretary of War, is to endeavour to follow punctually the ſame orders, that he may the better ſucceed in them, and give no advan<g ref="char:EOLhyphen"/>tage to his Enemies who are jealous of his glory. He ought have a Jour<g ref="char:EOLhyphen"/>nal Book, wherein he ſhall cauſe to be inſerted by his chief Secretary, all the Orders, Letters, and Anſwers, which he ſhall have received or given, that he may be thereby always in a condition to give his Soveraign an account of his duty and actions.</p>
+                  <p>The General knowing into what place he is to carry the War, and if it be only to enter into an Enemies Country, or to give a diverſion to
+<pb n="108" facs="tcp:65874:64"/>their Forces; or if it be in effect to beſiege a place, force ſome Poſts, or to ſearch the Enemy to give him Bat<g ref="char:EOLhyphen"/>tel; he is to hold a Council upon theſe ſeveral occurrences, and ſhall call to it the chief Officers of Horſe, Foot, and Artillery, with the Commiſſary General of the Proviſions, to the end that amongſt themſelves they may determine the ſeveral days marches, and the places for proviſion on the way.</p>
+                  <p>In that council, where they treat of the ſecuritie of the Army, in going to the place propoſed, they ſhall in<g ref="char:EOLhyphen"/>quire into the nature of the Coun<g ref="char:EOLhyphen"/>try, to wit if it be commodious for the march of the Cavalrie, or more favourable for infantry; or if theſe two bodies may march both together: In fine, they muſt there treat of Car<g ref="char:EOLhyphen"/>riages; and the General of the Artil<g ref="char:EOLhyphen"/>lery, and Commiſſary of Proviſions, ſhall declare the advantage or incon<g ref="char:EOLhyphen"/>venience of the Country, for the con<g ref="char:EOLhyphen"/>duct of the Proviſions and Baggage of the Army.</p>
+                  <pb n="109" facs="tcp:65874:64"/>
+                  <p>When the General hath received orders from his Soveraign to depart on a day prefixed, or having reſolved it in his Council, he ought to write to the chief Officers who were not at the Council General. Now ſeeing it is uſual that the Enemy entertains al<g ref="char:EOLhyphen"/>ways Spies in the Capital Towns, and in the place where the General has his abode; he is to ſend his Letters by ſe<g ref="char:EOLhyphen"/>cret and extraordinary ways, ſo that they who pry into his actions may be deceived. He may pretend ſome indiſpoſition that he may have time to write his Letters. He ſhall begin to ſend to thoſe who are moſt remote from him, and the place whither he intends to go; which will give them occaſion to arrive at the place of Ren<g ref="char:EOLhyphen"/>dezvous as ſoon as they who are very near, to whom the General is not to make known his thoughts but when the time is at hand. Four or five days before the General is to depart, he ſhould cauſe a report to be ſpread that he intends to go to a match of Hunt<g ref="char:EOLhyphen"/>ing in a place at ſome conſiderable
+<pb n="110" facs="tcp:65874:65"/>diſtance from the way his Army is to march. This or ſome ſuch like pretext, puzles the Spies, eſpecially when they ſee that there is ſome pro<g ref="char:EOLhyphen"/>bability in it. The Evening before he is to depart, he ſhall cauſe notice be given at the receiving of the word, that the Forces that are with him ſhall repair next day to their colours, that they may be ready to march ac<g ref="char:EOLhyphen"/>cording to Orders. The Generals of Artillery and the Commiſſaries of Pro<g ref="char:EOLhyphen"/>viſion receive the firſt Orders, to the end they may have time to make pro<g ref="char:EOLhyphen"/>viſions without hurry or noiſe, and furniſh the ſtores from whence the Army is to receive refreſhment: and that obliges them to keep their order very ſecret. The Rendezvous of an Army, is a certain place which the General hath choſen, or is appointed him by Orders from his Prince, whi<g ref="char:EOLhyphen"/>ther all the Regiments that are to compoſe his Army, ought to be pre<g ref="char:EOLhyphen"/>ſent at the day prefixt to them, not<g ref="char:EOLhyphen"/>withſtanding of the badneſs of wea<g ref="char:EOLhyphen"/>ther. The Rendezvous ought to be
+<pb n="111" facs="tcp:65874:65"/>commodious, not only for lodging the Army, but alſo for furniſhing it with proviſions, and all other things ne<g ref="char:EOLhyphen"/>ceſſary: and therefore it ſhould al<g ref="char:EOLhyphen"/>ways be near ſome places ſcituated on Rivers, that both Horſe and Foot may be furniſhed with ſufficiency of water. When the Rendezvous of an Army is made in ſome Town, and that the Ar<g ref="char:EOLhyphen"/>my is to ſtay there but for one night, the moſt commodious way both for the inhabitants, and for the Souldi<g ref="char:EOLhyphen"/>ers, is to encamp without the Walls of the Town, giving permiſſion only to ſome Horſe and Foot, to come and buy proviſions for themſelves and Comrades.</p>
+                  <p>If the Army be to lie ſome time at their Rendezvous, and that the place is capable to receive them, then they may be freely quartered in the Town, provided there be water enough both for the inhabitants and Army, for otherways they muſt go quarter elſe<g ref="char:EOLhyphen"/>where.</p>
+                  <p>It is to be obſerved that when the Army lies in the Field, the Quarters
+<pb n="112" facs="tcp:65874:66"/>are to be placed as near one another as poſſibly they can, that it may not be weakened; and though the Ren<g ref="char:EOLhyphen"/>devous of the Army be diſtant from the Enemies Country, and that there ſeem to be no fear of danger, never<g ref="char:EOLhyphen"/>theleſs as faſt as the Regiments ſhall arrive at the Rendezvous, and enter into their Poſts or Lodgings, they ſhall be careful to place their Courts of Guard, and advance Sentinels for ſecurity of the Camp.</p>
+               </div>
+               <div type="part">
+                  <head>Of cautions to be taken before an Army be drawn into the Field.</head>
+                  <p>The General before he draws out into the Field, is to agree with the <hi>Mareſhal de Camp,</hi> and the Mareſhal of Battel, about the order of his march. That that may be done in the moſt convenient manner, the General ſhould know the force of the Army that he is to Command, and likewiſe of the Enemies. It will be no hard matter to know the ſtate of his own; for by making a Roll of the number of Re<g ref="char:EOLhyphen"/>giments
+<pb n="113" facs="tcp:65874:66"/>of Horſe and Foot, that com<g ref="char:EOLhyphen"/>poſe it, and having ſet down in it the number of the men that are in them, and the number of Squadrons and Ba<g ref="char:EOLhyphen"/>tallions that they may form, he ſhall know how many men he has to Com<g ref="char:EOLhyphen"/>mand, and according to that number may proportion the Van guard, main Body, and the Rear-guard; but he ought firſt by his Spies and Scouts be informed, of the convenience or in<g ref="char:EOLhyphen"/>convenience of the ways; if they be ſolid and plain, that he may carry with him his Artillery; if the Coun<g ref="char:EOLhyphen"/>try be Mountainous, cloſe, or open Champian; if there be many Woods and Rivers to paſs; if the ways be cut by Marſhes, Ditches, Canals, or other incommodious places; if there be many narrow paſſes; if the Enemy may have advantage to attack or ſur<g ref="char:EOLhyphen"/>priſe by Ambuſcades in the narrow paſſages. Finally, being well inform<g ref="char:EOLhyphen"/>ed of all that may be advantagious to him, he ſhall frame the order of his march, that he may depart when he ſhall think fit. Before he draw out
+<pb n="114" facs="tcp:65874:67"/>into the Fields, he ought above all things give orders for raiſing recruits, making Convoys, which are two things abſolutely neceſſary for the preſervation of an Army that hath a deſign to march in an Enemies Coun<g ref="char:EOLhyphen"/>try.</p>
+                  <p>The General having cauſed notice to be given at receiving of the word the Evening before he deſigns his Ar<g ref="char:EOLhyphen"/>my ſhould march, that every one ſhould be in readineſs to march next day by the break of day; the Horſe and Foot early in the Morning ſhall repair to their Standards and Colours, which is the place of the gathering together of the ſeveral Troops and Companies. All the Troops being formed there, they ſhall put them<g ref="char:EOLhyphen"/>ſelves upon the march, and rank them<g ref="char:EOLhyphen"/>ſelves into Squadrons and Batallions, that they may afterward draw up in Batallia in the place appointed them by the Mareſhal de Camp, or his Aids. Above all things the Mareſhal de Camp ought to be well informed of the con<g ref="char:EOLhyphen"/>dition of the Country through which
+<pb n="115" facs="tcp:65874:67"/>the Army is to march, inſtructing himſelf by the general and particular Maps of the Country, and alſo by the relation of Peaſants.</p>
+                  <p>He ſhall then draw up his Troops in Batallia, according as he ſhall judge convenient, or as the General hath ordered him. If it be to march in a plain and open Country, conve<g ref="char:EOLhyphen"/>nient for the Cavalrie, Artillery, and the Carriages, then he may extend the Wings of his Army, and march in this manner.</p>
+                  <p>He ſhall divide the whole Army in<g ref="char:EOLhyphen"/>to three bodies: that in the middle ſhall be two thirds of all the Foot, tanked in groſs, and by Batallions of two Regiments a piece: upon the flanks of that infanterie the greater pieces of Artillery ſhall be placed, ac<g ref="char:EOLhyphen"/>companied by ſome Batallion of Foot.</p>
+                  <p>At the right and left Wing of that middle-line, ſhall be the Cavalrie diſ<g ref="char:EOLhyphen"/>poſed into Squadrons, each Squadron conſiſting of two Cornets; The reſt of the infantery marching in little
+<pb n="116" facs="tcp:65874:68"/>bodies, ſhall cloſe in, between them and the Horſe, the Baggage and Am<g ref="char:EOLhyphen"/>munition of the Army, with ſome Field pieces, as we have ſaid in the proper place. When an Army marches in a ſtreight Country on a rode way, no accidents give it greater umbrage, than to be obliged to march through long and narrow paſſes. When the ways lie between Hills, the General is to ſend out Riders to poſt themſelves on the way, that they may diſcover even to the loweſt places, if the Ene<g ref="char:EOLhyphen"/>my be not entrenched there, obſer<g ref="char:EOLhyphen"/>ving the nature of the plains, and al<g ref="char:EOLhyphen"/>ways asking news of the Enemies march. If the way be covered with Trees, two or three days before the Army come there, Carpenters and Pioneers muſt be ſent before, with a Guard of Horſe to defend them whilſt they are cutting down the Trees, and enlarging the ways, that they make ſpace for the Army to march by Pil<g ref="char:EOLhyphen"/>lars. At firſt there muſt advance a Squadron of Horſe, and then a groſs body, which is to be backed by Foot,
+<pb n="117" facs="tcp:65874:68"/>then the Artillery ſhall follow, ming<g ref="char:EOLhyphen"/>led with ſome Batallion of Foot, and afterward the reſt of the Army, which is to be brought up by the reſt of the Cavalrie: but if the Country be incom<g ref="char:EOLhyphen"/>modious, and that neither Waggons nor Artillery can be brought through it, the ways ſtretching along Moun<g ref="char:EOLhyphen"/>tains, little Hills, Valleys, navigable and un navigable Rivers, and other difficult places, and that nevertheleſs there is a neceſſity of Cannon, in ſuch a caſe the General drawing a little aſide out of the way, ſhall cauſe the Fords and ways to be ſounded and tried; he ſhall always ſend out ſome to get intelligence of the Enemies; and when he is well informed of the ways, and that he hath made ſome of them fit for the paſſage of Cannon, he is to divide his Army into two Bodies; and ſhall make one of them march in file, and afterward the Artillery which is to be followed by the ſecond body or Rear-guard. If the War be to be carried into the Enemies Coun<g ref="char:EOLhyphen"/>try, and that there be a neceſſity of
+<pb n="118" facs="tcp:65874:69"/>paſſing through ſome one of his Pro<g ref="char:EOLhyphen"/>vinces, whether it be to lay down a Siege, or to bring relief to ſome place that is to be protected; then, either the Enemy has been already defeated in open Battel, or keeps the Field to bring ſuccours into the place beſieged, or to hinder relief from being brought to the Camp of the Beſiegers. On all theſe various occaſions, whether the Army Camp in the Field, or in a Vil<g ref="char:EOLhyphen"/>lage, the General is to have ſpecial care that the Commiſſary General of Proviſions, and the Treaſurers of War, behave themſelves with the fi<g ref="char:EOLhyphen"/>delity that their charge requires, eſ<g ref="char:EOLhyphen"/>pecially as to the matter of Proviſions which ought inceſſantly be provided either by Victuallers or Convoys. If the Enemy hath been beaten, and that they are not in condition to make a body of an Army, then the General may order his march, as has been ſaid before, either in an open and plain, or in a cloſe and covered Country; but if they have rallied again after their rout, and of the wrack of their
+<pb n="119" facs="tcp:65874:69"/>Forces have made up an Army conſi<g ref="char:EOLhyphen"/>derable enough to croſs the deſigns of the victorious Army, then muſt he march in a cloſe body; and to the end that the Army may be in freedom to paſs into all ſorts of places; being diſpoſed into Pillars, the Cavalrie ſhall march on the flanks, on the Front and at the rear of the Pillars; the Infantery ſhall be in the middle and in groſs Batallions, the Artillery and Baggage on one ſide; all attended by ſome old Regiments, to cover and hinder them from being cut off.</p>
+               </div>
+               <div type="part">
+                  <head>Of the march of an Army in a cloſe and covered Country.</head>
+                  <p>An Army paſſing through a cloſe and covered Country, ſuffers many inconveniencies, eſpecially if it be en<g ref="char:EOLhyphen"/>gaged in an Enemies Country, for it cannot march in Batallia, far leſs bring up the Artillery, the ways being often broken by Woods, Rivers, and other incommodious places and paſſages. If the Army be obliged to paſs through
+<pb n="120" facs="tcp:65874:70"/>ſuch kind of places, the General, or Mareſchal de Camp, is to ſend before, ſome Ingineers with a party of Horſe, and ſome Companies of Foot and Pioneers to fill up the Ditches, make Bridges, build Boats, and in a word, to do all that the Ingeniers ſhall Com<g ref="char:EOLhyphen"/>mand them, who are to take the beſt meaſures they can for facilitating the march of the Army; and during the time that theſe things are a doing, the General is to take ſpecial care to ſend out ſome parties of Horſe a ſcouting, that they may learn intelligence of the Enemy, and know, if they be in the Fields, what way they march, and in a word, all that may conduce to the avoiding of ambuſhes and ſurpriſes. That is the time when the General ſhould ſet his Spies at work to diſco<g ref="char:EOLhyphen"/>ver the Enemies deſigns, which is an extraordinary advantage in ſuch an enterpriſe.</p>
+                  <p>The General by his Scouts ſhall in<g ref="char:EOLhyphen"/>form himſelf of the Enemies Counte<g ref="char:EOLhyphen"/>nance; to which he is not ſlightly to give credit, unleſs confirmed by many;
+<pb n="121" facs="tcp:65874:70"/>and if he know that the Enemies wait not for him at ſome place or paſs, he ſhall advance his Army, and go in ſearch of them if his orders be ſo: but if he be informed that the Enemy has a mind to ſurpriſe him in ſome narrow paſſage, or in croſſing a River, he is to uſe all circumſpection in paſſing ſuch places, that he may preſerve his Troops from the ſurpriſes of the Ene<g ref="char:EOLhyphen"/>mies. In all theſe various occurren<g ref="char:EOLhyphen"/>ces, whether he encamp in the Field, or in ſome Village, He is to take moſt ſpecial care that the Commiſſary General of Proviſions, and the Trea<g ref="char:EOLhyphen"/>ſurers of War act with all the faith<g ref="char:EOLhyphen"/>fulneſs that their offices require, and particularly as to the matter of Provi<g ref="char:EOLhyphen"/>ſions which muſt be daily ſupplied, as well by Convoys as Victuallers.</p>
+                  <p>The Commiſſary General ought to be very careful in the choice of the Corn, which he is to gather together into Granaries and Stores by his under Officers, who ought to be skilful and faithful, that they may have a care not to buy rotten and ſpoil'd Corn,
+<pb n="122" facs="tcp:65874:71"/>which might be deſtructive to the Souldiers; as alſo in the entertaining of honeſt and faithful Bakers, ſuch as can reſiſt the temptations which might be made to them by the Ene<g ref="char:EOLhyphen"/>mies money.</p>
+                  <p>The Commiſſary ought to know the weight that a Buſhel of good Wheat ſhould weigh, and by conſe<g ref="char:EOLhyphen"/>quent all the other meaſures that are in uſe. In the firſt place he ought to know what weight of bread ſo much Wheat will yield, and how many men that Bread is ſufficient to feed in a day, and then how much Wine or Water, according to the u<g ref="char:EOLhyphen"/>ſual proportion, is ſufficient for the ſame number of men, and what weight it weighs. Theſe things ſhould be known to the Commiſſary General, and his Clarks, that they may take their meaſures to prepare the neceſ<g ref="char:EOLhyphen"/>ſary Proviſions for the Body of an Army during a Campagn.</p>
+               </div>
+               <div type="part">
+                  <pb n="123" facs="tcp:65874:71"/>
+                  <head>How an Army made up of Horſe and Foot, is to be Encamped.</head>
+                  <p>To Camp an Army aright, it muſt be always put into two lines, with a Body of reſerve, provided the ground be fit for it; ſo diſpoſing them, that between the two lines there be two hundred paces diſtance. All the Squa<g ref="char:EOLhyphen"/>drons of Horſe of each line are to poſſeſs thirty five paces of ground a piece, and there muſt be as much void betwixt them, that a Squadron may march by the intervals, when there is occaſion of fighting.</p>
+                  <p>The Batallions of Foot who Camp commonly in Batallia ſix men deep, have about eighty paces of ground al<g ref="char:EOLhyphen"/>lotted to them, more or leſs, accord<g ref="char:EOLhyphen"/>ing to the ſcituation of the place.</p>
+                  <p>Between the Squadrons of Horſe and Batallions of Foot of the ſame line, there is uſually left a diſtance of fourty or fifty paces.</p>
+                  <p>As to the Artillery, the Cannons are placed in the firſt line of the Foot,
+<pb n="124" facs="tcp:65874:72"/>at ſuch places as ſhall be thought moſt advantagious.</p>
+                  <p>The Waggons and Ammunition are to be Camped between the ſecond line and the body of reſerve, on the right hand; and the Proviſions on the left, or near the Tent of the Com<g ref="char:EOLhyphen"/>miſſary General.</p>
+                  <p>The Officers as well of Horſe as Foot, Camp at the head of their Squa<g ref="char:EOLhyphen"/>drons and Batallions.</p>
+                  <p>The place of Arms and chief Court of Guard, are always at the head of the Camp, where the Arms, Stan<g ref="char:EOLhyphen"/>dards, and Colours are lodged.</p>
+                  <p>A General marching in an Enemies Country, and having on his march met with a Poſt, which we ſuppoſe to be a Bridge, before which there are ſome Courtins, Baſtions, and de<g ref="char:EOLhyphen"/>my-Baſtions, flanked by ſome heights or little Caſtles, he is to take care to view it, or to ſend ſome Ingeneers to obſerve if the Bridge be for reſiſtance, divided by little draw Bridges, or uni<g ref="char:EOLhyphen"/>ted and entire; and at the ſame time ſhall detach a ſmall party to try if the
+<pb n="125" facs="tcp:65874:72"/>River be fordable, for in ſuch a caſe the General may make ſome Horſe paſs over carrying Foot behind them, and by that means attack the Bridge at both ends. But if the Bridge be defended by ſome eminence, where<g ref="char:EOLhyphen"/>on Cannon is planted, a croſs Battery is quickly to be raiſed, in ſuch a man<g ref="char:EOLhyphen"/>ner that the pieces may be out of aim, and that thoſe of the height cannot bear againſt them, from which they cannot fire but out of the openings or Gun-holes, which look againſt and defend only that which is oppoſite to them on the Front: from the Battery they muſt fire conſtantly, until the <hi>Embraſures,</hi> or Gun-holes be broken down, and the Enemies Cannon diſ<g ref="char:EOLhyphen"/>mounted. If the entry of the Bridge be fortified with ſome Baſtions; with<g ref="char:EOLhyphen"/>out ſpending time to attack it by Trenches, ſome <hi>Cavalier</hi> muſt in haſte be raiſed to make a breach, which muſt be aſſaulted with Sword and Pi<g ref="char:EOLhyphen"/>ſtol, that ſo the Baſtion may be car<g ref="char:EOLhyphen"/>ried in a trice. That is a vigourous way of attack; the truth is, the
+<pb n="126" facs="tcp:65874:73"/>Souldiers are much expoſed thereby, but it is the ſureſt way for ſuch Poſts, which by a long delay might conſume more men, and occaſion the loſs of opportunity of effectuating the deſign, if it were ſet upon by Trenches.</p>
+                  <p>When an Army on a march meets with Villages, heights, or other like Poſts, which the Peaſants have forti<g ref="char:EOLhyphen"/>fied to defend themſelves, and to ſe<g ref="char:EOLhyphen"/>cure their goods in; The General ſhall obſerve, if the Poſt deſerve that the Army ſhould halt, or that if pro<g ref="char:EOLhyphen"/>ceeding in his march a detachment will be ſufficient to reduce theſe Muti<g ref="char:EOLhyphen"/>neers to reaſon. If he find it conveni<g ref="char:EOLhyphen"/>ent to make a halt, the Mareſhal de Camp, attended by the Ingeneers, is to ſearch for the moſt convenient ground for encamping the Army, ſuch as places where are Rivers, Waters, or Fountains. The Quarter-Maſters of Horſe, and the Brigadeers of Foot of the Army, ſhall diſtribute the ground for the Camping of their For<g ref="char:EOLhyphen"/>ces, according to the Orders of the Quarter-Maſter-General. The Law of
+<pb n="127" facs="tcp:65874:73"/>War forbids Peaſants upon pain of death, to ſhut themſelves up within bare Walls without Cannon, to give thereby ſtop to a Royal Army. If the General cauſes them to be ſummoned to render, it is an extraordinary fa<g ref="char:EOLhyphen"/>vour ſhewed them; but if he reſolve to force them, he is to name the Of<g ref="char:EOLhyphen"/>ficers who ſhould begin the attack, that with their men and thoſe that are to back them, they may warmly ply them with fire, ſome furniſhed with ſhort Arms, others with <hi>Petards,</hi> Granadoes, <hi>Boſſes,</hi> fire Pots; and ſome others ſhall carry Ladders: the firſt by the help of <hi>Mantelets</hi> or port<g ref="char:EOLhyphen"/>able defences, ſhall approach the Gates, and apply the Petard, whilſt others ſcale the Walls, every one ma<g ref="char:EOLhyphen"/>king uſe of Fire-works, and continu<g ref="char:EOLhyphen"/>ing the action with vigour, until the Poſt be gained. The ſucceſs is fatal to the Commanders of the Poſt, who are rigourouſly to be puniſhed for ſo inſolent a piece of raſhneſs.</p>
+                  <p>In the attacking of places, ſo ma<g ref="char:EOLhyphen"/>ny different accidents and ſubjects do
+<pb n="128" facs="tcp:65874:74"/>occur wherein the General of an Ar<g ref="char:EOLhyphen"/>my ought to employ the beſt of his Judgment, and make uſe of his ex<g ref="char:EOLhyphen"/>perience and conduct in War, that as we have ſaid in our firſt part, and as may be with good reaſon averred, the moſt part of the actions of War are no more but continual conſequences of occurrences that many times de<g ref="char:EOLhyphen"/>pend more on chance, than on the Conduct of a Commander.</p>
+               </div>
+               <div type="part">
+                  <head>Of the continuance of a Siege.</head>
+                  <p>It is very difficult to find two Towns of the ſame ſcituation and force; it is likewiſe a hard matter to make two Sieges of a like diſpoſiti<g ref="char:EOLhyphen"/>on, and much more ſtill to determine the continuance thereof; for if there be ſome Towns, to which the Beſie<g ref="char:EOLhyphen"/>gers without opening or carrying on of Trenches, may the firſt day of the Siege approach, and lodge themſelves on the Counterſcarps of their <hi>Foſſé,</hi> by means of a <hi>Rideau,</hi> or ſome hol<g ref="char:EOLhyphen"/>low way; ſometimes of a River, or
+<pb n="129" facs="tcp:65874:74"/>ſome ill fortified Suburbs. There are likewiſe other Towns where the ground about is ſo well ordered, that within Cannon ſhot of their Ram<g ref="char:EOLhyphen"/>parts, or at greater diſtance from their Out-works, there is neither any rui<g ref="char:EOLhyphen"/>nous place, nor hollow way, that may facilitate an approach to them. To ſuch kind of places there is no coming but by Trenches, or by gain<g ref="char:EOLhyphen"/>ing ground piece and piece; and that is the reaſon that ſuch Sieges are com<g ref="char:EOLhyphen"/>monly very dangerous, becauſe of the many accidents which happen daily in the attacks, ſallies, mines, and other actions of War, practiſed by both parties, the one to defend themſelves with more reſolution, and the other to attack with greater vigour.</p>
+               </div>
+               <div type="part">
+                  <head>Of the ravage that is made about pla<g ref="char:EOLhyphen"/>ces which are intended to be Be<g ref="char:EOLhyphen"/>ſieged.</head>
+                  <p>It is uſually made by parties of Horſe and Foot joined together, to
+<pb n="130" facs="tcp:65874:75"/>the end they may be in better condi<g ref="char:EOLhyphen"/>tion of Foraging, and burning all the Corn and other Commodities that are about a place, whereof they who are to be aſſieged might make any advantage. In this action as well as in the reſt of the whole Siege, the General ſhould act with great pru<g ref="char:EOLhyphen"/>dence, for from the beginnings there is good conjecture to be made of the progreſs of a Siege: and the parties whom he ſhall ſend out ought to be Commanded by men skilful in War, ſuch as Maſters de Camp, Majors, and other Officers, who have the prudence to ſhun the Ambuſhes of the Enemy, to abide their ſallies, and to make head againſt their parties, beating them back to their defences. They who are Commanded out to make the ravage, ought to draw off from the Army about two Leagues, or at leaſt a League from the Town which is to be beſieged: they ſhall put all to fire whereſoever they paſs, with diſcre<g ref="char:EOLhyphen"/>tion, though, to preſerve ſuch things
+<pb n="131" facs="tcp:65874:75"/>as they may judge uſeful to cover their Camp, as Woods, private Hou<g ref="char:EOLhyphen"/>ſes, Churches, and other ſacred pla<g ref="char:EOLhyphen"/>ces, provided the beſieged might not make uſe of them to favour their ſal<g ref="char:EOLhyphen"/>lies, and diſpute the ground; for in ſuch a caſe the ſacred ſtones of Altars, the holy Reliques, and the reſt of what is uſeleſs may be carried away; and the materials may ſerve to build more conſiderable places of that nature af<g ref="char:EOLhyphen"/>ter the Siege.</p>
+                  <p>Whilſt this ravage is making, the Mareſchal de Camp, with his Inge<g ref="char:EOLhyphen"/>neers, goes to view the place, as near the Out-works as poſſibly he can, that with more diſtinct knowledge he may judge of the ſtrength or weakneſs of the place that is to be beſieged. A General engaging himſelf in an Ene<g ref="char:EOLhyphen"/>mies Countrey, ſhould leave nothing behind him, that is to ſay, no place whereof he is not Maſter, to the end he may facilitate the march of his Re<g ref="char:EOLhyphen"/>cruits, and of the Convoys that are to come to him; otherways he would
+<pb n="132" facs="tcp:65874:76"/>take very bad meaſures, ſhould he beſiege a place in the uſual way whilſt the Enemy continues Maſter of the Caſtles and other places which might hinder him from the liberty of the Field. When a place to be beſieged ſtands in the middle of a State, ſuch as are commonly thoſe of a people that have revolted againſt their Prince; and that a General is Com<g ref="char:EOLhyphen"/>manded out to reduce them to their duty, he is to conſider if it be con<g ref="char:EOLhyphen"/>venient to attack their places by force and ſtorm, or by long Sieges, if they cannot be ſuccoured by their Allies, or if they truſt only to the ſtrength and ſcituation of their places and Ramparts. The General being well informed of the condition of thoſe of the place, and knowing that they cannot be relieved from any part, that all their force conſiſts in their obſti<g ref="char:EOLhyphen"/>nacy, in the depth of their Ditches, and height of their Walls, then it ſhall be enough for him to overcome them by Famine, by blocking them
+<pb n="133" facs="tcp:65874:76"/>up, which is nothing elſe than a way of diſtributing his Troops amongſt the Caſtles, Villages and other pla<g ref="char:EOLhyphen"/>ces which lie on the avenues of the place, prohibiting all and every one to communicate with thoſe of the Town, and to carry them proviſions, upon pain of death, impriſoning thoſe that ſhall come out of the place, that they may be puniſhed according to their deſervings.</p>
+                  <p>If a Siege is to be formed, the ra<g ref="char:EOLhyphen"/>vage being made by order of the Ma<g ref="char:EOLhyphen"/>reſhal de Camp of the Army, The Ge<g ref="char:EOLhyphen"/>neral is to make his Troops march to begin the Siege. On that occaſion the General ſhould make his Forces double their march, to the end he may deprive the Enemies of occaſion of fortifying the place with proviſi<g ref="char:EOLhyphen"/>ons and men, if they had neglected to do it before.</p>
+                  <p>When the General is within half a League of the place, he is to ſend ſome intelligent perſon to the Mare<g ref="char:EOLhyphen"/>ſhal de Camp, that the Mareſhal may
+<pb n="134" facs="tcp:65874:77"/>inform him of the moſt advantagious Poſts that are about the place.</p>
+                  <p>The General being thus informed of the advantage and diſadvantage of the ground where he is to lay down his Camp, ſhall go a little be<g ref="char:EOLhyphen"/>fore, that he himſelf may take a view of all the Poſts, being accompanied by the Mareſhal de Camp and Inge<g ref="char:EOLhyphen"/>neers, who may ſhew him the advan<g ref="char:EOLhyphen"/>tage of the places whereof he has had a relation, that there he may draw off his Troops, diſtributing the Cavalry into the plains and places near Ri<g ref="char:EOLhyphen"/>vers, and the Infantry upon the little Hills and Mountains, within Cannon ſhot of the place. At that firſt come<g ref="char:EOLhyphen"/>ing it is very difficult to give to every Regiment the juſt meaſure of ground that is neceſſary to them, or to de<g ref="char:EOLhyphen"/>termine preciſely the extent which the Parks of Artillery, and the Quar<g ref="char:EOLhyphen"/>ters of Proviſions ſhould poſſeſs: Ne<g ref="char:EOLhyphen"/>vertheleſs, that the matter may be made more eaſy, we ſhall deduce it into particulars. It is to be obſerved,
+<pb n="135" facs="tcp:65874:77"/>that when the Army is compoſed of ſeveral Troops of Strangers, it is bet<g ref="char:EOLhyphen"/>ter to put all the Regiments of one Nation together, than to ſeparate them, that the quarrels may be avoid<g ref="char:EOLhyphen"/>ed which happen but too frequently amongſt men of different Nations.</p>
+               </div>
+               <div type="part">
+                  <head>Of the Encamping of the Horſe.</head>
+                  <p>Though we have in our firſt part ſpoken of the Cavalry, we muſt ſtill tell you that a Horſeman is called a Trooper. He ought commonly to have a ſervant and two Horſes; or at leaſt two Troopers ought to have betwixt them a ſervant and three Horſes, that the third Horſe may go out a forage<g ref="char:EOLhyphen"/>ing.</p>
+                  <p>To lodge a Troop of Horſe of a hundred men, which go by the name of Troopers (in French they are cal<g ref="char:EOLhyphen"/>led Maſters or Cavaliers) there is aſ<g ref="char:EOLhyphen"/>ſigned them for the whole Troop ſe<g ref="char:EOLhyphen"/>venty foot in front, and two hundred in depth.</p>
+                  <pb n="136" facs="tcp:65874:78"/>
+                  <p>To two Troopers that lodge toge<g ref="char:EOLhyphen"/>ther, is aſſigned eight foot in breadth, and twelve in length, to make their Huts, or Baraques on. As to the Ba<g ref="char:EOLhyphen"/>raques, or Huts of the Horſes, there is allowed to each four foot in breadth, and ten in length. The men and Horſes are both lodged in two ranks. The Captains lodging is at the head of the Baraques of his Troop, the whole front of which he poſſeſſes; and the breadth of it is fourty foot. Between the Huts and Stables, there is a lane eight foot broad. The Horſes Heads ſtand to<g ref="char:EOLhyphen"/>wards the Huts or Baraques of their Maſters. The Lane between the Sta<g ref="char:EOLhyphen"/>bles is ten foot broad, that the Hor<g ref="char:EOLhyphen"/>ſes may have room to come forth.</p>
+                  <p>Between the lodging of the Cap<g ref="char:EOLhyphen"/>tain and the Troop, there is a Lane twenty foot broad. Behind the Troop are poſted the Sutlers, divided from the Troop by a Lane twenty foot broad.</p>
+                  <p>If many Troops encamp together
+<pb n="137" facs="tcp:65874:78"/>near to one another, the ſpace be<g ref="char:EOLhyphen"/>twixt them is commonly twenty foot broad.</p>
+                  <p>I ſhall not in this place ſpeak of the quartering of the Infantry, when up<g ref="char:EOLhyphen"/>on a march they come to a Village, nor of the Quarters of thoſe that are in Gariſon in a place; becauſe the firſt Quarter in the Peaſants Houſes by Billets, and the others with the Towns people by Chamberfulls, or ſingly; I ſpeak of the Infantry that are ob<g ref="char:EOLhyphen"/>liged to Encamp and to build Huts. That manner of Lodging is called En<g ref="char:EOLhyphen"/>camping.</p>
+                  <p>We have in our firſt Part, given all the meaſures for Lodging a Compa<g ref="char:EOLhyphen"/>ny of Foot, and of an entire Regi<g ref="char:EOLhyphen"/>ment.</p>
+               </div>
+               <div type="part">
+                  <head>Of the way of making the Lines of Circumvallation and Contravalla<g ref="char:EOLhyphen"/>tion.</head>
+                  <p>If the General find that he cannot by ſtorm carry the place which he
+<pb n="138" facs="tcp:65874:79"/>intends to attack, and that beſides, he may be in apprehenſion that the Enemy will relieve the place, then ſhall he cauſe a Line of Circumvalla<g ref="char:EOLhyphen"/>tion to be made round his Camp; and if he know the Town to be ſtrong in men, and that the Governour may make frequent ſallies, to incommode his Camp, and make Priſoners: to oppoſe theſe attempts, he muſt make a line of Contravallation on the ſide of the Town. The Forces being in<g ref="char:EOLhyphen"/>camped, the Ingeneers ſhall go round the place, that they may obſerve the ground by which they are to draw the line of Circumvallation, taking a <hi>Plan</hi> or draught of the ground cir<g ref="char:EOLhyphen"/>cumjacent to the place, obſerving in it all the heights, little Hills, Val<g ref="char:EOLhyphen"/>leys, Rivers, Churches, and generally all that may ſerve for Lodgings, as well for Horſe as Foot, as Vineyards, Hedges, ruined Houſes, and other places of covert. The Ingeneers have<g ref="char:EOLhyphen"/>ing preſented that draught to the Ge<g ref="char:EOLhyphen"/>neral, and with him condeſcended on
+<pb n="139" facs="tcp:65874:79"/>the way by which the line of Circum<g ref="char:EOLhyphen"/>vallation is to be carried, they are to mark it out with pegs and cords, of the breadth of two fathoms, make<g ref="char:EOLhyphen"/>ing the baſis of its <hi>Parapet</hi> eight foot broad, the interiour height of the <hi>Parapet</hi> ſix foot, and the exteriour five, with a <hi>Banquette</hi> three foot broad, and a foot and a half high; the Line of Circumvallation on the ſide of the Country, and the Earth caſt up on that of the Camp. The Line of Contravallation is made by the ſame meaſures, having its Ditch to<g ref="char:EOLhyphen"/>wards the Town, and the Earth on the ſide of the Camp, to cover the Souldiers that are behind it.</p>
+               </div>
+               <div type="part">
+                  <head>How the Attacks and Trenches are to be determined, and ordered.</head>
+                  <p>The Circumvallation being finiſh<g ref="char:EOLhyphen"/>ed, and the Parks fortified by ſome Star-works, or half Bulwarks, the Mareſhal de Camp, attended by the Ingeneers, and guarded by ſome
+<pb n="140" facs="tcp:65874:80"/>Horſe, is to approach as near as poſ<g ref="char:EOLhyphen"/>ſibly he can to the Out-works or Counterſcarps of the place, that he may diſcover the ſtrength or weak<g ref="char:EOLhyphen"/>neſs of the Fortifications of the Town, the force whereof conſiſts in the goodneſs of its Out-works, when they are well flanked by the defen<g ref="char:EOLhyphen"/>ces of the place, and not commanded by adjacent places, its Ditches being large and very deep, the Baſtions ſo<g ref="char:EOLhyphen"/>lid, big, and well defended by <hi>Caſe<g ref="char:EOLhyphen"/>mates</hi> and <hi>Cavaliers,</hi> with <hi>Parapets</hi> Cannon proof. We ſhall tell ye like<g ref="char:EOLhyphen"/>wiſe, that the weakneſs of a place is to have great Out-works commanded by the adjoining heights, and ill flanked by the place, with narrow Ditches, and half filled up, decayed Ramparts, ruined <hi>Parapets,</hi> ſmall Ba<g ref="char:EOLhyphen"/>ſtions, and ill filled with Earth, that, and the nature of the ground being obſerved, the Ingeneers are to make their report to the General, that the number of attacks may be adjuſted, which are to be but two or three at
+<pb n="141" facs="tcp:65874:80"/>moſt, if he have no Army ſtrong enough to make four or five at a time, and to furniſh them all that is neceſſary. The number of the Trench<g ref="char:EOLhyphen"/>es being determined, the Ingeneers are to mark them out on the very place with pegs and cords, and the way by which they muſt be carried on; taking their advantage of the ground, as of little Valleys, hollow ways, dry Brooks, low Bottoms, Ditches, Hedges, little Hillocks, and in a word, of every thing that may put the Souldiers under Co<g ref="char:EOLhyphen"/>vert.</p>
+               </div>
+               <div type="part">
+                  <head>Of the carrying on of Trenches.</head>
+                  <p>Many who have written of Lines of approach, eſpecially ſuch as have never been preſent at them, have ſpo<g ref="char:EOLhyphen"/>ken of the working, and of the ad<g ref="char:EOLhyphen"/>vancing and conducting of a Trench, as of a matter ſo eaſy, that they have boldly undertaken to limit the time that ſhould be employed in carrying
+<pb n="142" facs="tcp:65874:81"/>it forwards to the Counterſcarp of a place beſieged, and to meaſure how many paces and fathoms the Pioneers ſhould carry on their work in a day, in a night, and in an hour. For my own part who have conducted ſome, I found the matter far more difficult in the execution, than it is in imagi<g ref="char:EOLhyphen"/>nation and theory in a ſtudy: In ef<g ref="char:EOLhyphen"/>fect, the advancement of a Trench depends on ſo many accidents, that I wonder at thoſe that would limit the time for it. That I may ſpeak to the matter with ſome exactneſs, I do ſay, that the Ingeneer, or in his place, he that hath the ordering of the work, ought firſt of all conſider the quality of the ground through which he is to carry his Trench, that he may obſerve if it be of plain Earth, or if it be ſandy, ſtony, or altogether Rocky, or if it be cut by Ditches, or boggy and mariſh. When he hath well conſidered that, if the ground be good, he is to make proviſion of Mattocks, Spades, Pick-Axes and
+<pb n="143" facs="tcp:65874:81"/>Shovels, that he may make uſe of them to open, dig, and enlarge the Trench, according to the meaſures we ſhall give hereafter: but if the ground be rocky and too hard to be caſt up, (which is to be learnt by the relation of the Country people about) the Ingeneer is to make proviſion of a great quantity of Sacks full of Earth, Faggots and <hi>Gabions</hi> that he may make uſe of them to de<g ref="char:EOLhyphen"/>fend himſelf againſt the works of the place, and to cover his Trenches, as we are about to tell you. The dif<g ref="char:EOLhyphen"/>ference that we make betwixt the opening and carrying on of the Trenches, is this, that under the word of opening, is expreſſed, the beginning of the working of the Trench, the tail whereof looks al<g ref="char:EOLhyphen"/>ways towards the Beſiegers; and that by the word <hi>carrying on,</hi> the advance<g ref="char:EOLhyphen"/>ment of the work is ſignified, the end of which looks always to the place that is beſieged, and is called the head of the Trench. The place of open<g ref="char:EOLhyphen"/>ing
+<pb n="144" facs="tcp:65874:82"/>them ſhould be marked out by the Mareſhal de Camp, or General. The true place to begin the opening in, ſhould be without Musket ſhot of the neareſt of the Out-works, yea, and without Cannon ſhot, when it is judged that the Labourers may be incommoded thereby. When in the Neighbourhood of the place there is ſome Houſe that interpoſes betwixt the Musket and Cannon of the Be<g ref="char:EOLhyphen"/>ſieged, and that to go thither there is but very little ground which lies open to the place, in that caſe it is to be made uſe of for the opening of the Trenches, ſending thither Pio<g ref="char:EOLhyphen"/>neers under ſhelter of ſome <hi>Mante<g ref="char:EOLhyphen"/>lets,</hi> followed by thoſe who are to back them, who are uſually Horſe, and ſeldom Foot, the Horſe having the advantage of riding and ſcouring the Field, which the Foot cannot ea<g ref="char:EOLhyphen"/>ſily do.</p>
+                  <p>It is to be obſerved, that in open<g ref="char:EOLhyphen"/>ing the Trenches, the firſt Pioneers kneel, and work not but by night,
+<pb n="145" facs="tcp:65874:82"/>wherein they do five or ſix times more work in three hours time, than they can do in ten by day. At firſt they make but a little Ditch, which they that follow enlarge and dig by little and little, until it be about two fa<g ref="char:EOLhyphen"/>thoms wide, and three or four foot deep, eſpecially when they draw near the place, that by the earth which they caſt up before themſelves, and thoſe that are in the Trench, they may be covered from the defences of the Town.</p>
+                  <p>There is nothing that heartens the Labourers in the Trenches more, than to ſee themſelves backed by thoſe of their party; for there is hardly ever any approach made, but that the be<g ref="char:EOLhyphen"/>ſieged make ſallies out, to incom<g ref="char:EOLhyphen"/>mode the Pioneers, fill up their works, and ſet upon thoſe that defend them. This ought to oblige the Beſiegers to make places of Arms, and ſome Re<g ref="char:EOLhyphen"/>douts and Baſtions, with half Bul<g ref="char:EOLhyphen"/>warks at competent diſtances.</p>
+                  <p>The moſt commodious Poſts for
+<pb n="146" facs="tcp:65874:83"/>places of Arms, as well for the Horſe as Foot, are ſuch as may eaſily aſſiſt one another, and are ſecure from the works of the Town, as hollow ways, and eſpecially when theſe ways are croſs, for their depth ſerves for a <hi>Pa<g ref="char:EOLhyphen"/>rapet</hi> to the Foot; but for want of a natural depth theſe places of Arms are to be defended with <hi>Gabions,</hi> Sacks full of Earth, or other ways with Trunks of Trees, and all that can be found, to hinder thoſe of the place to annoy them: ſometimes there is a Ditch made round them, and the place of Arms is fortified like a Field Fort.</p>
+                  <p>When the men work at the ap<g ref="char:EOLhyphen"/>proaches, and find hollow ways, they are to make uſe of them for opening of the Trenches, raiſing there at firſt ſome Redout, to clear them all along, in caſe that the Beſieged would make uſe of them, as of Counter approaches. To prevent laying open and along to the place, the <hi>Boyau</hi> or Trench muſt of neceſſity turn ſide-ways: on
+<pb n="147" facs="tcp:65874:83"/>the right or left flank, and ſometimes about the middle of the Trenches there is a Redout to be raiſed con<g ref="char:EOLhyphen"/>taining eight or ten fathoms in Front, with a Ditch a fathom and a half wide, or thereabout, and as deep as poſſi<g ref="char:EOLhyphen"/>bly it can be made.</p>
+                  <p>In theſe little Forts moſt part of the Souldiers who are Commanded to guard the Trenches, are to be lodged, as we have ſhewed elſewhere in our Royal Fortifications.</p>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
